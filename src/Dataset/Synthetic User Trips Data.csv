@@ -1,0 +1,1156 @@
+START_DATE*,END_DATE*,START*,STOP*,MILES*,PLACE_TYPE*,USER*
+1/1/2016 21:11,1/1/2016 21:17,Fort Pierce,Fort Pierce,5.1,BAR,Courtney Jones
+1/2/2016 1:25,1/2/2016 1:37,Fort Pierce,Fort Pierce,5.0,OTHERS,Traci Braun
+1/2/2016 20:25,1/2/2016 20:38,Fort Pierce,Fort Pierce,4.8,OTHERS,Margaret Brock
+1/5/2016 17:31,1/5/2016 17:45,Fort Pierce,Fort Pierce,4.7,SHOPPING,William Walker
+1/6/2016 14:42,1/6/2016 15:49,Fort Pierce,West Palm Beach,63.7,RESTAURANT,Jeremy Price
+1/6/2016 17:15,1/6/2016 17:19,West Palm Beach,West Palm Beach,4.3,BAR,Michelle Day
+1/6/2016 17:30,1/6/2016 17:35,West Palm Beach,Palm Beach,7.1,OFFICE,Heather Maxwell
+1/7/2016 13:27,1/7/2016 13:33,Cary,Cary,0.8,OTHERS,Lynn Elliott
+1/10/2016 8:05,1/10/2016 8:25,Cary,Morrisville,8.3,RESTAURANT,Steven Jones
+1/10/2016 12:17,1/10/2016 12:44,Jamaica,New York,16.5,OTHERS,Margaret Brock
+1/10/2016 15:08,1/10/2016 15:51,New York,Queens,10.8,SHOPPING,Richard Reid
+1/10/2016 18:18,1/10/2016 18:53,Elmhurst,New York,7.5,OTHERS,Rachel Williams
+1/10/2016 19:12,1/10/2016 19:32,Midtown,East Harlem,6.2,GYM,Nicole Garrett
+1/11/2016 8:55,1/11/2016 9:21,East Harlem,NoMad,6.4,SHOPPING,Aaron Webb
+1/11/2016 11:56,1/11/2016 12:03,Flatiron District,Midtown,1.6,OTHERS,Erika Brown
+1/11/2016 13:32,1/11/2016 13:46,Midtown,Midtown East,1.7,OTHERS,David Whitaker
+1/11/2016 14:30,1/11/2016 14:43,Midtown East,Midtown,1.9,GYM,Wesley Wilson
+1/12/2016 12:33,1/12/2016 12:49,Midtown,Hudson Square,1.9,SHOPPING,Traci Braun
+1/12/2016 12:53,1/12/2016 13:09,Hudson Square,Lower Manhattan,4.0,RESTAURANT,Mark Rodriguez DDS
+1/12/2016 14:42,1/12/2016 14:56,Lower Manhattan,Hudson Square,1.8,GYM,Ryan Barnes
+1/12/2016 15:13,1/12/2016 15:28,Hudson Square,Hell's Kitchen,2.4,SHOPPING,Elizabeth Gross
+1/12/2016 15:42,1/12/2016 15:54,Hell's Kitchen,Midtown,2.0,OFFICE,David Whitaker
+1/12/2016 16:02,1/12/2016 17:00,New York,Queens County,15.1,OFFICE,Sophia Hernandez
+1/13/2016 13:54,1/13/2016 14:07,Downtown,Gulfton,11.2,RESTAURANT,Jeremy Price
+1/13/2016 15:00,1/13/2016 15:28,Gulfton,Downtown,11.8,BAR,David Hartman
+1/14/2016 16:29,1/14/2016 17:05,Houston,Houston,21.9,GYM,Paul Smith
+1/14/2016 21:39,1/14/2016 21:45,Eagan Park,Jamestown Court,3.9,SHOPPING,Alexandria Barrett
+1/15/2016 0:41,1/15/2016 1:01,Morrisville,Cary,8.0,BAR,Richard Reid
+1/15/2016 11:43,1/15/2016 12:03,Cary,Durham,10.4,GYM,Erika Brown
+1/15/2016 13:26,1/15/2016 13:44,Durham,Cary,10.4,RESTAURANT,Alexandria Barrett
+1/18/2016 14:55,1/18/2016 15:06,Cary,Cary,4.8,RESTAURANT,Rachel Williams
+1/18/2016 16:13,1/18/2016 16:24,Farmington Woods,Whitebridge,4.7,OFFICE,Cynthia Campbell
+1/19/2016 9:09,1/19/2016 9:23,Whitebridge,Lake Wellingborough,7.2,SHOPPING,Mark Rodriguez DDS
+1/19/2016 10:55,1/19/2016 11:09,Lake Wellingborough,Whitebridge,7.6,RESTAURANT,John Peters
+1/20/2016 10:36,1/20/2016 11:11,Cary,Raleigh,17.1,RESTAURANT,Heather Mcguire
+1/20/2016 11:48,1/20/2016 12:19,Fayetteville Street,Umstead,15.1,SHOPPING,Heather Maxwell
+1/20/2016 13:25,1/20/2016 14:19,Raleigh,Cary,40.2,OTHERS,Rachel Williams
+1/21/2016 14:25,1/21/2016 14:29,Cary,Cary,1.6,PLAY ARENA,John Medina
+1/21/2016 14:43,1/21/2016 14:51,Cary,Cary,2.4,RESTAURANT,William Jennings
+1/21/2016 16:01,1/21/2016 16:06,Cary,Cary,1.0,OTHERS,Rose Cruz
+1/26/2016 10:41,1/26/2016 10:50,Whitebridge,Hazelwood,2.0,SHOPPING,Richard Reid
+1/26/2016 12:33,1/26/2016 12:41,Hazelwood,Whitebridge,2.3,OFFICE,Brendan Rivera
+1/26/2016 16:24,1/26/2016 16:32,Whitebridge,Westpark Place,1.9,PLAY ARENA,Patricia Marshall
+1/26/2016 17:17,1/26/2016 17:22,Cary,Cary,1.4,SHOPPING,Sophia Hernandez
+1/26/2016 17:27,1/26/2016 17:29,Cary,Cary,0.5,GYM,Chad Davis
+1/27/2016 9:24,1/27/2016 9:31,Cary,Cary,1.8,OFFICE,Maria Tran
+1/27/2016 10:19,1/27/2016 10:48,Cary,Raleigh,18.7,SHOPPING,Kelly Torres
+1/27/2016 12:34,1/27/2016 12:44,Fairmont,Meredith Townes,3.4,RESTAURANT,John Peters
+1/27/2016 14:05,1/27/2016 14:13,Raleigh,Raleigh,2.7,BAR,Samantha Coleman
+1/27/2016 14:46,1/27/2016 15:08,Raleigh,Cary,12.9,OTHERS,John Medina
+1/28/2016 12:28,1/28/2016 13:00,Cary,Raleigh,19.0,BAR,Jeremy Price
+1/28/2016 15:11,1/28/2016 15:31,Meredith Townes,Leesville Hollow,14.7,BAR,Erika Brown
+1/28/2016 16:21,1/28/2016 16:51,Raleigh,Cary,15.7,PLAY ARENA,David Whitaker
+1/29/2016 9:31,1/29/2016 9:45,Cary,Cary,4.6,RESTAURANT,Mark Rodriguez DDS
+1/29/2016 10:56,1/29/2016 11:07,Cary,Cary,5.2,GYM,Nancy Brennan
+1/29/2016 11:43,1/29/2016 12:03,Cary,Durham,10.4,SHOPPING,Aaron Webb
+1/29/2016 13:24,1/29/2016 13:47,Durham,Cary,10.1,OTHERS,Steven Jones
+1/29/2016 18:31,1/29/2016 18:52,Cary,Apex,5.8,RESTAURANT,John Medina
+1/29/2016 21:21,1/29/2016 21:40,Apex,Cary,5.5,OFFICE,Tracy Hanna
+1/30/2016 16:21,1/30/2016 16:33,Cary,Apex,5.7,OFFICE,Wesley Wilson
+1/30/2016 18:09,1/30/2016 18:24,Apex,Cary,5.7,PLAY ARENA,Kelly Torres
+2/1/2016 10:35,2/1/2016 11:15,Cary,Chapel Hill,19.4,PLAY ARENA,Brendan Rivera
+2/1/2016 12:10,2/1/2016 12:43,Chapel Hill,Cary,23.3,SHOPPING,Kylie Gordon
+2/1/2016 12:56,2/1/2016 13:07,Northwoods,Whitebridge,3.9,RESTAURANT,Sophia Hernandez
+2/2/2016 13:04,2/2/2016 13:23,Whitebridge,Williamsburg Manor,8.3,OFFICE,John Medina
+2/2/2016 13:51,2/2/2016 14:06,Cary,Cary,6.0,OFFICE,Amber Young
+2/2/2016 14:38,2/2/2016 14:42,Cary,Cary,1.6,RESTAURANT,Lynn Elliott
+2/4/2016 8:40,2/4/2016 9:01,Cary,Morrisville,5.2,SHOPPING,William Walker
+2/4/2016 9:37,2/4/2016 10:09,Morrisville,Cary,9.7,OFFICE,Margaret Brock
+2/4/2016 10:26,2/4/2016 10:32,Cary,Cary,1.6,SHOPPING,Kelly Torres
+2/4/2016 15:59,2/4/2016 16:03,Cary,Cary,1.1,OFFICE,Mark Rodriguez DDS
+2/4/2016 16:35,2/4/2016 16:39,Cary,Cary,1.6,PLAY ARENA,Alexandra Lewis
+2/4/2016 18:04,2/4/2016 18:31,Whitebridge,Macgregor Downs,9.0,BAR,Chad Davis
+2/4/2016 20:36,2/4/2016 20:55,Cary,Cary,7.7,PLAY ARENA,Samantha Coleman
+2/5/2016 11:47,2/5/2016 12:07,Cary,Durham,10.4,OTHERS,Chad Davis
+2/5/2016 13:22,2/5/2016 13:41,Durham,Cary,10.4,GYM,Brendan Rivera
+2/6/2016 16:20,2/6/2016 16:53,Cary,Raleigh,11.4,OTHERS,Amber Young
+2/6/2016 18:57,2/6/2016 19:21,Raleigh,Cary,9.0,RESTAURANT,Heather Mcguire
+2/6/2016 19:28,2/6/2016 19:37,Edgehill Farms,Whitebridge,3.2,OTHERS,Erika Brown
+2/7/2016 16:49,2/7/2016 17:01,Cary,Apex,5.6,GYM,Kelly Torres
+2/7/2016 18:03,2/7/2016 18:17,Apex,Cary,5.7,OTHERS,Alexandra Lewis
+2/7/2016 18:39,2/7/2016 18:53,Cary,Morrisville,6.1,PLAY ARENA,Samantha Coleman
+2/7/2016 20:22,2/7/2016 20:40,Morrisville,Cary,6.1,GYM,David Whitaker
+2/8/2016 12:57,2/8/2016 13:08,Whitebridge,Edgehill Farms,4.3,GYM,George Thomas Jr.
+2/8/2016 14:00,2/8/2016 14:10,Edgehill Farms,Whitebridge,2.7,GYM,Brendan Rivera
+2/9/2016 10:54,2/9/2016 11:07,Whitebridge,Northwoods,5.3,OTHERS,Lynn Elliott
+2/9/2016 11:43,2/9/2016 11:50,Northwoods,Tanglewood,3.0,SHOPPING,Matthew Russell
+2/9/2016 13:36,2/9/2016 13:52,Tanglewood,Preston,5.1,OTHERS,Alexandria Barrett
+2/9/2016 13:58,2/9/2016 14:02,Preston,Whitebridge,1.5,RESTAURANT,Sarah Peck
+2/9/2016 18:55,2/9/2016 19:11,Cary,Morrisville,6.1,GYM,Courtney Jones
+2/9/2016 20:24,2/9/2016 20:40,Morrisville,Cary,6.1,OTHERS,Aaron Webb
+2/11/2016 16:28,2/11/2016 17:10,Cary,Raleigh,17.3,OTHERS,Richard Reid
+2/11/2016 17:49,2/11/2016 18:10,Eastgate,Walnut Terrace,5.7,GYM,Michael Mckinney
+2/11/2016 18:24,2/11/2016 18:46,Raleigh,Morrisville,13.5,OTHERS,Cynthia Campbell
+2/11/2016 20:36,2/11/2016 20:51,Morrisville,Cary,6.1,GYM,Ryan Barnes
+2/12/2016 8:21,2/12/2016 8:42,Cary,Durham,8.5,PLAY ARENA,Maria Tran
+2/12/2016 10:45,2/12/2016 10:52,Durham,Morrisville,2.6,GYM,Rose Cruz
+2/12/2016 11:14,2/12/2016 11:35,Morrisville,Raleigh,17.0,RESTAURANT,Heather Mcguire
+2/12/2016 13:02,2/12/2016 13:36,Raleigh,Cary,18.0,SHOPPING,Alexandra Lewis
+2/12/2016 14:49,2/12/2016 15:06,Cary,Morrisville,8.4,OFFICE,Matthew Russell
+2/12/2016 15:33,2/12/2016 16:06,Morrisville,Cary,11.5,OTHERS,Sarah Peck
+2/13/2016 14:21,2/13/2016 14:41,Cary,Morrisville,8.9,RESTAURANT,Amber Young
+2/13/2016 23:45,2/14/2016 0:01,East Elmhurst,Jackson Heights,2.7,GYM,Alexis Barry
+2/14/2016 0:50,2/14/2016 1:00,Jackson Heights,East Elmhurst,1.8,GYM,Margaret Brock
+2/14/2016 14:07,2/14/2016 14:40,East Elmhurst,New York,8.1,SHOPPING,David Patel
+2/14/2016 14:46,2/14/2016 15:03,Midtown,Midtown West,2.0,OFFICE,Kelly Torres
+2/14/2016 16:35,2/14/2016 17:02,New York,Long Island City,13.0,BAR,Margaret Brock
+2/14/2016 17:06,2/14/2016 17:29,Long Island City,Jamaica,13.9,OFFICE,Richard Reid
+2/16/2016 3:21,2/16/2016 4:13,Katunayaka,Unknown Location,43.7,RESTAURANT,Courtney Jones
+2/16/2016 8:29,2/16/2016 9:34,Unknown Location,Colombo,14.1,PLAY ARENA,David Patel
+2/16/2016 10:31,2/16/2016 10:41,Colombo,Colombo,2.6,BAR,Sophia Hernandez
+2/16/2016 11:32,2/16/2016 12:02,Colombo,Colombo,4.5,OTHERS,William Jennings
+2/16/2016 12:39,2/16/2016 12:42,Colombo,Colombo,1.7,OTHERS,Patricia Marshall
+2/16/2016 13:43,2/16/2016 13:55,Colombo,Colombo,1.8,OTHERS,Heather Mcguire
+2/16/2016 16:34,2/16/2016 17:10,Colombo,Colombo,6.0,OFFICE,William Jennings
+2/16/2016 17:17,2/16/2016 17:26,Colombo,Nugegoda,1.1,BAR,Nicole Garrett
+2/16/2016 17:40,2/16/2016 17:44,Nugegoda,Unknown Location,3.6,PLAY ARENA,David Patel
+2/17/2016 13:18,2/17/2016 14:04,Unknown Location,Colombo,14.7,OTHERS,Amber Young
+2/17/2016 15:17,2/17/2016 15:22,Colombo,Colombo,1.7,RESTAURANT,Amber Young
+2/17/2016 15:33,2/17/2016 16:17,Colombo,Katunayaka,21.4,SHOPPING,Maria Tran
+2/17/2016 16:38,2/17/2016 16:43,Katunayaka,Katunayaka,0.5,SHOPPING,Aaron Webb
+2/18/2016 8:19,2/18/2016 8:27,Unknown Location,Unknown Location,23.5,GYM,Samantha Coleman
+2/18/2016 14:03,2/18/2016 14:45,Unknown Location,Islamabad,12.7,SHOPPING,Troy Stewart
+2/18/2016 15:16,2/18/2016 15:31,Islamabad,Unknown Location,6.0,PLAY ARENA,George Thomas Jr.
+2/18/2016 18:44,2/18/2016 18:58,Unknown Location,Islamabad,5.2,OTHERS,Kelly Torres
+2/18/2016 19:27,2/18/2016 20:08,Islamabad,Unknown Location,10.0,PLAY ARENA,Alexis Barry
+2/19/2016 9:02,2/19/2016 9:14,Unknown Location,Unknown Location,18.3,RESTAURANT,Alexandra Lewis
+2/19/2016 9:21,2/19/2016 9:51,Unknown Location,Unknown Location,11.2,RESTAURANT,Amber Young
+2/19/2016 10:21,2/19/2016 10:48,Unknown Location,Islamabad,7.6,RESTAURANT,Kelly Torres
+2/19/2016 11:20,2/19/2016 11:26,Islamabad,Islamabad,1.5,PLAY ARENA,Jeremy Price
+2/19/2016 11:45,2/19/2016 11:50,Islamabad,Islamabad,1.0,RESTAURANT,Sarah Peck
+2/19/2016 12:09,2/19/2016 12:27,Islamabad,Unknown Location,7.3,PLAY ARENA,Amber Young
+2/19/2016 16:26,2/19/2016 16:45,Unknown Location,Islamabad,3.5,RESTAURANT,Nancy Brennan
+2/19/2016 17:09,2/19/2016 17:20,Islamabad,Islamabad,4.2,SHOPPING,David Whitaker
+2/19/2016 20:08,2/19/2016 20:30,Islamabad,Unknown Location,13.6,OTHERS,Tracy Hanna
+2/19/2016 20:34,2/19/2016 20:51,Unknown Location,Unknown Location,2.5,GYM,Kylie Gordon
+2/20/2016 7:59,2/20/2016 8:32,Unknown Location,Islamabad,14.4,OFFICE,Aaron Webb
+2/20/2016 10:48,2/20/2016 10:56,Islamabad,Islamabad,3.0,OTHERS,Alexandria Barrett
+2/20/2016 11:45,2/20/2016 11:53,Islamabad,Islamabad,1.5,OFFICE,Maria Tran
+2/20/2016 12:41,2/20/2016 13:17,Islamabad,R?walpindi,18.4,SHOPPING,Jeremy Price
+2/20/2016 14:50,2/20/2016 15:54,R?walpindi,R?walpindi,23.1,PLAY ARENA,Chad Davis
+2/20/2016 16:59,2/20/2016 17:54,R?walpindi,Unknown Location,16.5,GYM,David Whitaker
+2/20/2016 18:00,2/20/2016 18:03,Unknown Location,Unknown Location,3.2,OTHERS,Alexis Barry
+2/20/2016 19:28,2/20/2016 19:49,Unknown Location,Unknown Location,7.7,RESTAURANT,John Medina
+2/21/2016 9:07,2/21/2016 9:46,Unknown Location,Islamabad,14.5,OTHERS,Amber Young
+2/21/2016 11:39,2/21/2016 11:43,Unknown Location,Islamabad,2.4,OTHERS,Mark Rodriguez DDS
+2/21/2016 11:47,2/21/2016 12:01,Islamabad,Islamabad,4.6,OFFICE,Alexis Wang
+2/21/2016 12:13,2/21/2016 12:35,Islamabad,Unknown Location,8.8,OTHERS,Heather Maxwell
+2/21/2016 12:51,2/21/2016 13:12,Unknown Location,Unknown Location,8.3,GYM,Troy Stewart
+2/21/2016 13:33,2/21/2016 14:30,Unknown Location,Unknown Location,22.7,OFFICE,George Thomas Jr.
+2/21/2016 14:36,2/21/2016 15:03,Unknown Location,Islamabad,13.0,PLAY ARENA,Patricia Marshall
+2/21/2016 15:14,2/21/2016 15:31,Islamabad,Noorpur Shahan,8.1,RESTAURANT,Sarah Peck
+2/21/2016 15:36,2/21/2016 15:41,Noorpur Shahan,Unknown Location,2.2,RESTAURANT,Troy Stewart
+2/21/2016 16:04,2/21/2016 16:32,Unknown Location,Unknown Location,9.7,RESTAURANT,Alexis Barry
+2/21/2016 23:15,2/21/2016 23:52,Unknown Location,R?walpindi,20.0,BAR,Margaret Brock
+2/22/2016 21:54,2/22/2016 22:09,Morrisville,Cary,8.1,BAR,Erika Brown
+2/24/2016 14:30,2/24/2016 14:35,Whitebridge,Preston,1.5,OFFICE,Nancy Brennan
+2/24/2016 15:19,2/24/2016 15:25,Preston,Whitebridge,1.7,SHOPPING,Matthew Russell
+2/25/2016 16:27,2/25/2016 16:35,Whitebridge,Heritage Pines,3.1,OTHERS,Nicole Garrett
+2/25/2016 16:47,2/25/2016 17:02,Heritage Pines,Whitebridge,3.2,BAR,Chad Davis
+2/25/2016 17:16,2/25/2016 17:36,Whitebridge,Tanglewood,6.0,PLAY ARENA,Mark Rodriguez DDS
+2/25/2016 18:22,2/25/2016 18:39,Tanglewood,Whitebridge,5.8,SHOPPING,Alexandra Lewis
+2/26/2016 9:06,2/26/2016 9:29,Whitebridge,Westpark Place,6.3,OTHERS,Matthew Russell
+2/26/2016 11:05,2/26/2016 11:11,Westpark Place,Whitebridge,1.7,OTHERS,Traci Braun
+2/26/2016 11:35,2/26/2016 11:59,Cary,Durham,10.6,OTHERS,Richard Reid
+2/26/2016 13:01,2/26/2016 13:24,Durham,Cary,9.9,OTHERS,Nancy Brennan
+2/26/2016 14:38,2/26/2016 14:46,Whitebridge,Westpark Place,1.9,RESTAURANT,Michael Mckinney
+2/26/2016 15:00,2/26/2016 15:18,Westpark Place,Hazelwood,4.2,SHOPPING,Sophia Hernandez
+2/26/2016 17:01,2/26/2016 17:12,Hazelwood,Whitebridge,2.0,BAR,Patricia Marshall
+2/28/2016 5:22,2/28/2016 5:38,Whitebridge,Waverly Place,7.7,PLAY ARENA,Margaret Brock
+2/28/2016 9:26,2/28/2016 9:42,Waverly Place,Whitebridge,6.8,OTHERS,Lynn Elliott
+2/29/2016 11:07,2/29/2016 11:14,Whitebridge,Westpark Place,2.1,OTHERS,John Medina
+2/29/2016 11:30,2/29/2016 11:40,Cary,Apex,3.8,OTHERS,Michael Mckinney
+2/29/2016 12:36,2/29/2016 12:48,Apex,Cary,5.6,RESTAURANT,William Walker
+2/29/2016 14:55,2/29/2016 15:03,Whitebridge,Hazelwood,2.6,OFFICE,Courtney Jones
+2/29/2016 16:40,2/29/2016 17:00,Hazelwood,Whitebridge,6.6,BAR,Steven Jones
+3/1/2016 18:47,3/1/2016 19:10,Whitebridge,Wayne Ridge,8.0,BAR,Matthew Russell
+3/1/2016 21:27,3/1/2016 21:45,Wayne Ridge,Whitebridge,8.0,OFFICE,Steven Jones
+3/3/2016 9:45,3/3/2016 9:52,Whitebridge,Westpark Place,2.2,RESTAURANT,Sarah Peck
+3/3/2016 11:04,3/3/2016 11:10,Westpark Place,Whitebridge,2.3,OFFICE,Lynn Elliott
+3/3/2016 14:44,3/3/2016 14:58,Whitebridge,Northwoods,5.2,OTHERS,Patricia Marshall
+3/3/2016 15:27,3/3/2016 15:48,Cary,Raleigh,7.6,BAR,Paul Smith
+3/3/2016 16:02,3/3/2016 16:42,Raleigh,Cary,17.3,GYM,Sophia Hernandez
+3/4/2016 7:47,3/4/2016 8:06,Cary,Durham,9.9,OFFICE,Erika Brown
+3/4/2016 9:46,3/4/2016 10:03,Durham,Cary,9.9,GYM,Heather Mcguire
+3/4/2016 11:46,3/4/2016 12:06,Cary,Durham,10.4,OFFICE,Alexis Wang
+3/4/2016 13:03,3/4/2016 13:25,Durham,Cary,10.9,BAR,George Thomas Jr.
+3/4/2016 13:40,3/4/2016 14:09,Cary,Raleigh,15.7,GYM,Wesley Wilson
+3/4/2016 15:56,3/4/2016 16:08,Raleigh,Raleigh,4.9,BAR,Alexandra Lewis
+3/4/2016 16:16,3/4/2016 16:22,Fayetteville Street,Depot Historic District,0.8,GYM,Brendan Rivera
+3/4/2016 16:43,3/4/2016 17:12,Raleigh,Cary,13.5,RESTAURANT,Mark Rodriguez DDS
+3/4/2016 19:02,3/4/2016 19:08,Cary,Morrisville,1.9,OFFICE,Brendan Rivera
+3/4/2016 19:16,3/4/2016 19:25,Morrisville,Cary,2.0,RESTAURANT,Margaret Brock
+3/5/2016 11:44,3/5/2016 11:59,Cary,Morrisville,6.5,BAR,Michelle Day
+3/5/2016 12:57,3/5/2016 13:12,Weston,Weston,4.2,GYM,Lance Chan
+3/5/2016 14:08,3/5/2016 14:18,Morrisville,Cary,3.5,OFFICE,Samantha Coleman
+3/5/2016 14:39,3/5/2016 15:01,Whitebridge,Wayne Ridge,7.8,OFFICE,Michelle Day
+3/5/2016 16:52,3/5/2016 17:13,Cary,Morrisville,7.8,PLAY ARENA,Erika Brown
+3/5/2016 17:23,3/5/2016 17:34,Morrisville,Cary,3.9,RESTAURANT,George Thomas Jr.
+3/7/2016 9:10,3/7/2016 9:20,Whitebridge,Edgehill Farms,2.8,BAR,Alexandria Barrett
+3/7/2016 9:23,3/7/2016 9:47,Cary,Raleigh,12.4,OTHERS,Sophia Hernandez
+3/7/2016 12:10,3/7/2016 12:26,Fayetteville Street,Meredith Townes,5.9,SHOPPING,Ryan Barnes
+3/7/2016 13:57,3/7/2016 14:18,Meredith Townes,Leesville Hollow,9.4,GYM,Sarah Peck
+3/7/2016 15:19,3/7/2016 15:45,Raleigh,Cary,11.9,OFFICE,David Patel
+3/8/2016 14:38,3/8/2016 14:55,Whitebridge,Waverly Place,7.2,RESTAURANT,David Whitaker
+3/8/2016 15:35,3/8/2016 16:00,Waverly Place,Whitebridge,7.6,PLAY ARENA,Traci Braun
+3/8/2016 16:13,3/8/2016 16:25,Whitebridge,Whitebridge,1.6,PLAY ARENA,Paul Smith
+3/10/2016 3:36,3/10/2016 3:53,Cary,Morrisville,8.4,SHOPPING,Ryan Barnes
+3/10/2016 10:08,3/10/2016 10:37,East Austin,West University,12.8,OFFICE,Rachel Williams
+3/10/2016 14:39,3/10/2016 14:55,West University,South Congress,2.3,RESTAURANT,Kylie Gordon
+3/10/2016 16:18,3/10/2016 16:28,South Congress,Arts District,1.6,OTHERS,Chad Davis
+3/11/2016 9:47,3/11/2016 9:59,The Drag,Congress Ave District,2.0,OTHERS,Wesley Wilson
+3/11/2016 10:29,3/11/2016 10:36,Congress Ave District,Downtown,0.8,RESTAURANT,Sarah Peck
+3/11/2016 11:57,3/11/2016 12:04,Downtown,Red River District,1.2,BAR,Rose Cruz
+3/11/2016 13:43,3/11/2016 13:51,Red River District,Downtown,1.0,RESTAURANT,Traci Braun
+3/11/2016 19:21,3/11/2016 19:35,South Congress,The Drag,2.1,BAR,Cynthia Campbell
+3/12/2016 9:13,3/12/2016 9:22,The Drag,South Congress,2.2,OTHERS,Alexandra Lewis
+3/12/2016 18:27,3/12/2016 18:37,South Congress,The Drag,1.9,SHOPPING,Chad Davis
+3/13/2016 9:07,3/13/2016 9:37,The Drag,Convention Center District,5.7,GYM,Kylie Gordon
+3/13/2016 18:23,3/13/2016 18:43,South Congress,North Austin,8.4,SHOPPING,David Hartman
+3/13/2016 20:07,3/13/2016 20:28,Georgian Acres,The Drag,6.2,RESTAURANT,Mark Rodriguez DDS
+3/13/2016 20:39,3/13/2016 20:58,The Drag,North Austin,10.5,SHOPPING,Nancy Brennan
+3/13/2016 21:11,3/13/2016 21:23,North Austin,Coxville,7.2,BAR,Aaron Webb
+3/13/2016 22:19,3/13/2016 22:39,Coxville,The Drag,12.5,OTHERS,Richard Reid
+3/14/2016 8:34,3/14/2016 8:49,The Drag,South Congress,2.0,GYM,Lance Chan
+3/14/2016 18:39,3/14/2016 18:55,South Congress,The Drag,2.7,RESTAURANT,Steven Jones
+3/15/2016 8:45,3/15/2016 8:57,The Drag,Convention Center District,2.0,OFFICE,Paul Smith
+3/15/2016 20:48,3/15/2016 21:01,Downtown,The Drag,2.8,SHOPPING,Sophia Hernandez
+3/16/2016 11:34,3/16/2016 11:45,The Drag,Congress Ave District,1.7,RESTAURANT,Elizabeth Gross
+3/16/2016 14:44,3/16/2016 14:55,Convention Center District,West University,2.0,GYM,Nancy Brennan
+3/16/2016 18:43,3/16/2016 18:56,West University,Congress Ave District,2.1,BAR,Heather Maxwell
+3/17/2016 0:33,3/17/2016 0:44,Downtown,The Drag,1.7,SHOPPING,Nicole Garrett
+3/17/2016 12:52,3/17/2016 15:11,Austin,Katy,136.0,BAR,Courtney Jones
+3/17/2016 15:16,3/17/2016 15:58,Katy,Houston,30.2,PLAY ARENA,David Hartman
+3/17/2016 17:20,3/17/2016 18:02,Midtown,Alief,15.5,OTHERS,Kelly Torres
+3/17/2016 18:47,3/17/2016 19:09,Houston,Houston,4.9,RESTAURANT,Nicole Garrett
+3/17/2016 20:57,3/17/2016 21:28,Houston,Houston,12.6,SHOPPING,Nancy Brennan
+3/17/2016 21:48,3/17/2016 22:04,Sharpstown,Midtown,10.4,OTHERS,William Jennings
+3/18/2016 7:15,3/18/2016 7:21,Midtown,Midtown,1.1,GYM,Alexandra Lewis
+3/18/2016 8:35,3/18/2016 8:43,Midtown,Midtown,1.1,SHOPPING,Lynn Elliott
+3/18/2016 18:24,3/18/2016 19:08,Midtown,Sharpstown,13.2,RESTAURANT,David Patel
+3/18/2016 19:23,3/18/2016 19:29,Sharpstown,Sharpstown,1.0,OTHERS,Sarah Peck
+3/18/2016 21:01,3/18/2016 21:15,Sharpstown,Midtown,9.2,SHOPPING,David Patel
+3/19/2016 9:10,3/19/2016 9:25,Midtown,Sharpstown,9.4,GYM,William Jennings
+3/19/2016 12:50,3/19/2016 13:13,Houston,Sugar Land,12.0,OFFICE,George Thomas Jr.
+3/19/2016 14:01,3/19/2016 14:57,Sugar Land,Houston,35.1,OFFICE,Troy Stewart
+3/19/2016 15:34,3/19/2016 16:38,Houston,Galveston,36.5,RESTAURANT,Alexis Barry
+3/19/2016 17:17,3/19/2016 17:32,Galveston,Port Bolivar,3.1,RESTAURANT,Kelly Torres
+3/19/2016 17:37,3/19/2016 17:47,Port Bolivar,Port Bolivar,2.1,SHOPPING,William Jennings
+3/19/2016 17:52,3/19/2016 18:00,Port Bolivar,Port Bolivar,1.2,SHOPPING,Jeremy Price
+3/19/2016 18:53,3/19/2016 19:29,Port Bolivar,Galveston,7.5,SHOPPING,Traci Braun
+3/19/2016 19:33,3/19/2016 20:39,Galveston,Houston,57.0,BAR,John Medina
+3/20/2016 7:37,3/20/2016 7:48,Midtown,Washington Avenue,5.9,GYM,Troy Stewart
+3/20/2016 11:42,3/20/2016 11:56,Washington Avenue,Midtown,6.2,BAR,Nancy Brennan
+3/20/2016 17:08,3/20/2016 17:34,Midtown,Sharpstown,10.4,GYM,Cynthia Campbell
+3/20/2016 18:34,3/20/2016 18:40,Sharpstown,Briar Meadow,1.2,PLAY ARENA,Patricia Marshall
+3/20/2016 18:45,3/20/2016 19:06,Briar Meadow,Midtown,9.6,GYM,Steven Jones
+3/21/2016 10:21,3/21/2016 10:26,Midtown,Downtown,1.0,OTHERS,Samantha Coleman
+3/21/2016 16:05,3/21/2016 16:13,Downtown,Midtown,0.9,SHOPPING,David Hartman
+3/21/2016 18:59,3/21/2016 19:15,Midtown,Sharpstown,8.8,PLAY ARENA,Kylie Gordon
+3/21/2016 20:18,3/21/2016 20:55,Sharpstown,Midtown,25.6,OTHERS,Amber Young
+3/22/2016 6:17,3/22/2016 6:43,Midtown,Greater Greenspoint,23.0,GYM,Jeremy Price
+3/22/2016 12:06,3/22/2016 12:24,Morrisville,Cary,8.1,OFFICE,Troy Stewart
+3/22/2016 19:12,3/22/2016 19:25,Whitebridge,Whitebridge,1.4,PLAY ARENA,Aaron Webb
+3/23/2016 14:37,3/23/2016 14:42,Whitebridge,Preston,1.7,OFFICE,Patricia Marshall
+3/23/2016 14:53,3/23/2016 14:59,Preston,Whitebridge,1.6,GYM,Traci Braun
+3/24/2016 19:47,3/24/2016 19:54,Whitebridge,Westpark Place,2.0,OTHERS,Heather Mcguire
+3/24/2016 20:34,3/24/2016 20:40,Westpark Place,Whitebridge,2.2,GYM,Mark Rodriguez DDS
+3/25/2016 13:24,3/25/2016 16:22,Cary,Latta,144.0,PLAY ARENA,John Peters
+3/25/2016 16:52,3/25/2016 22:22,Latta,Jacksonville,310.3,BAR,Wesley Wilson
+3/25/2016 22:54,3/26/2016 1:39,Jacksonville,Kissimmee,201.0,BAR,Patricia Marshall
+3/26/2016 14:05,3/26/2016 14:29,Couples Glen,Isles of Buena Vista,6.7,SHOPPING,Mark Rodriguez DDS
+3/26/2016 15:19,3/26/2016 15:49,Kissimmee,Orlando,8.8,SHOPPING,Sarah Peck
+3/26/2016 16:26,3/26/2016 16:30,Lake Reams,Lake Reams,1.2,RESTAURANT,Ryan Barnes
+3/27/2016 0:31,3/27/2016 0:40,Lake Reams,Lake Reams,2.1,OFFICE,Patricia Marshall
+3/27/2016 1:11,3/27/2016 1:23,Orlando,Kissimmee,6.6,OTHERS,Lance Chan
+3/27/2016 15:31,3/27/2016 15:56,Kissimmee,Orlando,6.1,OTHERS,David Hartman
+3/27/2016 21:26,3/27/2016 21:41,Orlando,Orlando,6.9,OTHERS,Alexis Wang
+3/27/2016 23:04,3/27/2016 23:18,Orlando,Kissimmee,7.3,BAR,David Patel
+3/28/2016 12:29,3/28/2016 12:42,Kissimmee,Orlando,3.6,SHOPPING,David Hartman
+3/28/2016 19:30,3/28/2016 20:23,Couples Glen,Vista East,27.2,PLAY ARENA,Michael Mckinney
+3/28/2016 22:55,3/28/2016 23:26,Orlando,Kissimmee,25.7,OFFICE,William Walker
+3/29/2016 15:27,3/29/2016 16:11,Kissimmee,Orlando,13.6,RESTAURANT,Amber Young
+3/29/2016 18:20,3/29/2016 18:39,Sand Lake Commons,Sky Lake,6.2,GYM,Sophia Hernandez
+3/29/2016 20:29,3/29/2016 20:44,Sky Lake,Sand Lake Commons,6.0,GYM,Aaron Webb
+3/29/2016 23:04,3/29/2016 23:21,Orlando,Kissimmee,13.8,SHOPPING,Patricia Marshall
+3/30/2016 22:05,3/30/2016 22:55,Orlando,Kissimmee,28.8,OTHERS,John Peters
+3/31/2016 12:47,3/31/2016 13:22,Kissimmee,Orlando,16.1,RESTAURANT,David Patel
+3/31/2016 14:37,3/31/2016 15:09,Orlando,Kissimmee,16.4,BAR,Rose Cruz
+4/1/2016 13:43,4/1/2016 14:01,Kissimmee,Kissimmee,11.0,OTHERS,Michelle Day
+4/1/2016 14:36,4/1/2016 15:24,Kissimmee,Orlando,15.5,RESTAURANT,Chad Davis
+4/1/2016 16:01,4/1/2016 16:49,Orlando,Kissimmee,20.3,BAR,Nicole Garrett
+4/1/2016 16:52,4/1/2016 16:57,Kissimmee,Kissimmee,0.7,SHOPPING,Paul Smith
+4/2/2016 8:48,4/2/2016 9:04,Kissimmee,Kissimmee,5.5,GYM,William Jennings
+4/2/2016 11:01,4/2/2016 11:16,Kissimmee,Kissimmee,5.1,SHOPPING,Jeremy Price
+4/2/2016 12:21,4/2/2016 14:47,Kissimmee,Daytona Beach,77.3,BAR,Margaret Brock
+4/2/2016 16:57,4/2/2016 18:09,Daytona Beach,Jacksonville,80.5,OTHERS,Mark Rodriguez DDS
+4/2/2016 19:38,4/2/2016 22:36,Jacksonville,Ridgeland,174.2,RESTAURANT,George Thomas Jr.
+4/2/2016 23:11,4/3/2016 1:34,Ridgeland,Florence,144.0,BAR,David Rodriguez
+4/3/2016 2:00,4/3/2016 4:16,Florence,Cary,159.3,PLAY ARENA,Nancy Brennan
+4/5/2016 21:39,4/5/2016 21:55,Whitebridge,Wayne Ridge,7.9,BAR,Samantha Coleman
+4/6/2016 0:19,4/6/2016 0:39,Wayne Ridge,Whitebridge,8.0,PLAY ARENA,Rachel Williams
+4/7/2016 18:20,4/7/2016 18:39,Cary,Morrisville,6.1,OFFICE,Sarah Peck
+4/7/2016 19:45,4/7/2016 20:00,Morrisville,Cary,6.1,OFFICE,Nancy Brennan
+4/8/2016 12:30,4/8/2016 12:48,Cary,Durham,10.5,PLAY ARENA,Wesley Wilson
+4/8/2016 13:34,4/8/2016 13:51,Durham,Cary,8.7,OTHERS,Rose Cruz
+4/8/2016 13:55,4/8/2016 14:03,Westpark Place,Whitebridge,1.8,PLAY ARENA,Samantha Coleman
+4/8/2016 14:43,4/8/2016 15:20,Cary,Raleigh,19.1,PLAY ARENA,David Rodriguez
+4/8/2016 16:05,4/8/2016 16:47,Raleigh,Cary,18.6,GYM,David Whitaker
+4/12/2016 9:15,4/12/2016 9:26,Whitebridge,Edgehill Farms,2.8,BAR,Michelle Day
+4/12/2016 9:34,4/12/2016 9:53,Cary,Raleigh,8.9,GYM,Mark Rodriguez DDS
+4/12/2016 10:58,4/12/2016 11:18,Meredith,Cedar Hill,7.5,GYM,Rose Cruz
+4/12/2016 12:22,4/12/2016 12:44,Raleigh,Morrisville,15.9,BAR,Margaret Brock
+4/12/2016 13:42,4/12/2016 14:01,Morrisville,Cary,6.5,BAR,Alexis Barry
+4/14/2016 7:29,4/14/2016 8:09,Cary,Holly Springs,15.3,OTHERS,Patricia Marshall
+4/14/2016 16:00,4/14/2016 16:43,Holly Springs,Cary,13.7,SHOPPING,Nancy Brennan
+4/15/2016 11:36,4/15/2016 12:07,Cary,Raleigh,11.9,OTHERS,David Patel
+4/15/2016 12:29,4/15/2016 12:32,Meredith Townes,Harden Place,1.4,RESTAURANT,Troy Stewart
+4/15/2016 14:31,4/15/2016 15:01,Raleigh,Cary,15.2,OFFICE,Maria Tran
+4/16/2016 12:59,4/16/2016 13:17,Cary,Morrisville,6.0,PLAY ARENA,Alexandra Lewis
+4/16/2016 15:10,4/16/2016 15:26,Morrisville,Cary,6.1,OFFICE,Sophia Hernandez
+4/19/2016 17:44,4/19/2016 18:08,Whitebridge,Wayne Ridge,8.2,PLAY ARENA,Kylie Gordon
+4/19/2016 19:57,4/19/2016 20:19,Wayne Ridge,Whitebridge,8.0,PLAY ARENA,Rose Cruz
+4/22/2016 8:25,4/22/2016 9:04,Cary,Raleigh,13.6,OTHERS,Courtney Jones
+4/22/2016 10:10,4/22/2016 10:40,Raleigh,Cary,22.5,SHOPPING,David Rodriguez
+4/22/2016 12:08,4/22/2016 12:28,Cary,Durham,10.4,OTHERS,Heather Mcguire
+4/22/2016 13:02,4/22/2016 13:26,Durham,Cary,10.0,OTHERS,Wesley Wilson
+4/23/2016 17:03,4/23/2016 17:16,Whitebridge,Tanglewood,6.0,PLAY ARENA,Traci Braun
+4/23/2016 18:49,4/23/2016 19:05,Tanglewood,Whitebridge,6.5,GYM,Ryan Barnes
+4/24/2016 19:07,4/24/2016 19:16,Cary,Morrisville,3.1,RESTAURANT,John Medina
+4/24/2016 19:46,4/24/2016 19:52,Chessington,Chessington,1.9,GYM,Alexis Wang
+4/24/2016 21:41,4/24/2016 21:50,Morrisville,Cary,4.2,PLAY ARENA,Troy Stewart
+4/27/2016 13:30,4/27/2016 13:40,Whitebridge,Burtrose,4.9,OFFICE,Wesley Wilson
+4/27/2016 14:13,4/27/2016 14:25,Burtrose,Whitebridge,4.8,PLAY ARENA,Kelly Torres
+4/28/2016 12:09,4/28/2016 12:34,Cary,Raleigh,12.4,PLAY ARENA,William Jennings
+4/28/2016 13:30,4/28/2016 13:49,Raleigh,Cary,32.8,BAR,David Patel
+4/28/2016 22:10,4/28/2016 22:28,Morrisville,Cary,5.5,SHOPPING,Elizabeth Gross
+4/29/2016 11:44,4/29/2016 12:01,Cary,Durham,9.9,GYM,Rose Cruz
+4/29/2016 13:13,4/29/2016 13:34,Durham,Cary,10.0,OTHERS,Alexandria Barrett
+4/29/2016 18:46,4/29/2016 19:18,Cary,Durham,14.2,OFFICE,Courtney Jones
+4/29/2016 22:44,4/29/2016 23:19,Durham,Cary,18.2,OTHERS,Tracy Hanna
+4/30/2016 18:42,4/30/2016 18:57,Whitebridge,Waverly Place,7.7,OTHERS,William Jennings
+4/30/2016 22:16,4/30/2016 22:34,Waverly Place,Whitebridge,6.8,BAR,Samantha Coleman
+5/1/2016 13:45,5/1/2016 13:53,Whitebridge,Westpark Place,2.1,GYM,Rachel Williams
+5/1/2016 14:26,5/1/2016 14:31,Westpark Place,Whitebridge,2.3,OTHERS,Heather Maxwell
+5/1/2016 17:33,5/1/2016 17:45,Whitebridge,Tanglewood,6.2,PLAY ARENA,Rose Cruz
+5/1/2016 17:54,5/1/2016 18:10,Tanglewood,Parkway,7.5,PLAY ARENA,David Rodriguez
+5/1/2016 22:38,5/1/2016 22:49,Parkway,Whitebridge,3.1,OFFICE,Heather Mcguire
+5/2/2016 14:14,5/2/2016 14:21,Whitebridge,Westpark Place,2.2,SHOPPING,Traci Braun
+5/2/2016 15:37,5/2/2016 15:48,Westpark Place,Whitebridge,3.9,BAR,Aaron Webb
+5/3/2016 22:20,5/3/2016 22:28,Morrisville,Cary,2.5,BAR,William Walker
+5/4/2016 15:16,5/4/2016 15:37,Cary,Morrisville,8.7,PLAY ARENA,Tracy Hanna
+5/4/2016 20:55,5/4/2016 21:14,Mcvan,Capitol One,14.5,BAR,Cynthia Campbell
+5/4/2016 21:30,5/4/2016 21:36,Capitol One,University District,4.5,OFFICE,Ryan Barnes
+5/4/2016 22:19,5/4/2016 22:27,University District,Capitol One,5.0,GYM,Wesley Wilson
+5/5/2016 21:24,5/5/2016 21:36,Seattle,Redmond,14.2,SHOPPING,Steven Jones
+5/5/2016 22:34,5/5/2016 22:40,Redmond,Bellevue,2.9,GYM,Kelly Torres
+5/5/2016 23:55,5/6/2016 0:08,Bellevue,Seattle,12.9,OFFICE,Elizabeth Gross
+5/6/2016 5:47,5/6/2016 6:02,Capitol One,Mcvan,14.4,RESTAURANT,Heather Maxwell
+5/6/2016 16:45,5/6/2016 16:59,Chapel Hill,Morrisville,17.0,PLAY ARENA,Kelly Torres
+5/6/2016 17:18,5/6/2016 17:44,Morrisville,Cary,7.9,OTHERS,Lynn Elliott
+5/9/2016 6:08,5/9/2016 6:25,Cary,Morrisville,8.4,SHOPPING,Nancy Brennan
+5/9/2016 14:39,5/9/2016 15:06,San Francisco,Palo Alto,20.5,PLAY ARENA,John Peters
+5/9/2016 17:58,5/9/2016 18:26,Palo Alto,Sunnyvale,9.8,BAR,Nancy Brennan
+5/9/2016 19:35,5/9/2016 19:59,Sunnyvale,Newark,17.6,BAR,Alexandra Lewis
+5/10/2016 9:03,5/10/2016 9:20,Newark,Menlo Park,9.3,SHOPPING,Tracy Hanna
+5/10/2016 17:19,5/10/2016 17:31,Menlo Park,Newark,7.9,RESTAURANT,David Whitaker
+5/11/2016 8:35,5/11/2016 9:12,Newark,San Francisco,25.6,SHOPPING,Amber Young
+5/11/2016 21:47,5/11/2016 22:04,Morrisville,Cary,8.1,BAR,Paul Smith
+5/14/2016 18:35,5/14/2016 18:39,Cary,Morrisville,3.1,RESTAURANT,Chad Davis
+5/14/2016 23:01,5/14/2016 23:05,Morrisville,Cary,3.1,PLAY ARENA,Erika Brown
+5/17/2016 13:15,5/17/2016 13:23,Whitebridge,Preston,2.8,PLAY ARENA,Nancy Brennan
+5/17/2016 13:56,5/17/2016 14:08,Preston,Westpark Place,2.7,PLAY ARENA,Michelle Day
+5/17/2016 14:34,5/17/2016 14:40,Westpark Place,Whitebridge,1.9,OFFICE,Traci Braun
+5/18/2016 9:11,5/18/2016 9:41,Cary,Morrisville,8.4,BAR,David Patel
+5/18/2016 13:00,5/18/2016 13:02,Morrisville,Raleigh,7.6,BAR,Lynn Elliott
+5/19/2016 14:37,5/19/2016 15:01,Old City,Parkway Museums,2.9,OFFICE,Alexis Barry
+5/20/2016 10:56,5/20/2016 11:07,Old City,Hog Island,11.2,SHOPPING,William Walker
+5/20/2016 15:43,5/20/2016 16:12,Morrisville,Cary,8.2,PLAY ARENA,Alexis Wang
+5/22/2016 15:39,5/22/2016 15:46,Cary,Morrisville,3.0,GYM,Troy Stewart
+5/22/2016 18:46,5/22/2016 18:53,Morrisville,Cary,2.5,BAR,Lynn Elliott
+5/23/2016 20:19,5/23/2016 20:27,Whitebridge,Savon Height,3.6,OTHERS,Nancy Brennan
+5/23/2016 21:09,5/23/2016 21:21,Savon Height,Whitebridge,3.6,SHOPPING,Patricia Marshall
+5/27/2016 20:26,5/27/2016 20:30,Whitebridge,Kildaire Farms,4.5,BAR,Jeremy Price
+5/27/2016 20:47,5/27/2016 20:53,Savon Height,Kilarney Woods,1.2,PLAY ARENA,Alexandra Lewis
+5/27/2016 22:11,5/27/2016 22:14,Kilarney Woods,Kildaire Farms,1.7,BAR,Mark Rodriguez DDS
+5/28/2016 0:15,5/28/2016 0:21,Kilarney Woods,Whitebridge,4.7,SHOPPING,Lynn Elliott
+5/28/2016 12:52,5/28/2016 13:06,Cary,Morrisville,6.1,OTHERS,Margaret Brock
+5/28/2016 14:35,5/28/2016 15:04,Morrisville,Cary,11.3,OFFICE,Troy Stewart
+5/31/2016 13:54,5/31/2016 14:41,Cary,Raleigh,14.9,OTHERS,Troy Stewart
+5/31/2016 16:02,5/31/2016 16:39,Raleigh,Cary,14.0,PLAY ARENA,Alexis Wang
+5/31/2016 17:50,5/31/2016 17:59,Westpark Place,Whitebridge,1.8,RESTAURANT,Nicole Garrett
+6/1/2016 10:19,6/1/2016 10:47,Cary,Morrisville,6.7,BAR,Kelly Torres
+6/1/2016 13:10,6/1/2016 13:39,Morrisville,Cary,9.6,RESTAURANT,Nicole Garrett
+6/3/2016 11:29,6/3/2016 11:49,Cary,Durham,10.4,OTHERS,Rachel Williams
+6/3/2016 13:08,6/3/2016 13:38,Durham,Cary,9.9,RESTAURANT,Courtney Jones
+6/3/2016 15:31,6/3/2016 15:54,Cary,Morrisville,6.0,RESTAURANT,David Patel
+6/3/2016 18:14,6/3/2016 18:29,Townes at Everett Crossing,Chessington,3.3,OTHERS,Paul Smith
+6/3/2016 18:41,6/3/2016 18:53,Morrisville,Cary,3.1,RESTAURANT,Erika Brown
+6/3/2016 19:36,6/3/2016 19:42,Huntington Woods,Weston,1.7,PLAY ARENA,Alexandra Lewis
+6/3/2016 22:47,6/3/2016 23:06,Morrisville,Cary,4.0,SHOPPING,Chad Davis
+6/5/2016 14:03,6/5/2016 14:33,Whitebridge,Savon Height,7.8,SHOPPING,Alexis Wang
+6/5/2016 15:06,6/5/2016 15:22,Cary,Morrisville,7.8,OFFICE,William Jennings
+6/5/2016 15:57,6/5/2016 16:08,Weston,Weston,3.8,OTHERS,Nancy Brennan
+6/5/2016 18:05,6/5/2016 18:14,Morrisville,Cary,2.5,SHOPPING,Michelle Day
+6/5/2016 21:53,6/5/2016 22:05,Cary,Durham,9.9,OTHERS,Nicole Garrett
+6/5/2016 23:52,6/6/2016 0:08,Durham,Cary,9.9,OFFICE,Richard Reid
+6/6/2016 15:36,6/6/2016 15:45,Whitebridge,Hazelwood,3.0,OTHERS,Patricia Marshall
+6/6/2016 16:16,6/6/2016 16:24,Hazelwood,Whitebridge,2.4,PLAY ARENA,Margaret Brock
+6/6/2016 20:06,6/6/2016 20:20,Cary,Apex,5.7,SHOPPING,Samantha Coleman
+6/6/2016 21:08,6/6/2016 21:37,Apex,Cary,7.2,OTHERS,Matthew Russell
+6/6/2016 21:41,6/6/2016 22:00,Cary,Durham,10.4,RESTAURANT,Richard Reid
+6/6/2016 23:34,6/6/2016 23:48,Durham,Cary,9.9,OTHERS,Kylie Gordon
+6/7/2016 21:42,6/7/2016 22:00,Cary,Durham,10.4,SHOPPING,Alexandria Barrett
+6/7/2016 23:41,6/8/2016 0:04,Durham,Cary,9.9,BAR,Amber Young
+6/8/2016 8:23,6/8/2016 8:53,Cary,Morrisville,8.7,BAR,Mark Rodriguez DDS
+6/8/2016 12:04,6/8/2016 13:01,Jamaica,New York,22.3,GYM,Alexis Wang
+6/8/2016 13:12,6/8/2016 13:29,Seaport,Gramercy-Flatiron,3.3,PLAY ARENA,David Rodriguez
+6/8/2016 14:31,6/8/2016 14:37,Medical Centre,Tudor City,0.7,SHOPPING,Sarah Peck
+6/8/2016 16:55,6/8/2016 17:11,Rose Hill,Soho,2.5,OTHERS,Sophia Hernandez
+6/8/2016 17:16,6/8/2016 17:18,Soho,Tribeca,0.5,OTHERS,Tracy Hanna
+6/8/2016 17:59,6/8/2016 18:05,Tribeca,Financial District,0.9,OTHERS,Brendan Rivera
+6/8/2016 20:11,6/8/2016 20:25,Financial District,Kips Bay,4.8,PLAY ARENA,David Patel
+6/10/2016 15:19,6/10/2016 16:28,New York,Jamaica,16.3,SHOPPING,Traci Braun
+6/10/2016 21:47,6/10/2016 22:04,Cary,Durham,10.4,SHOPPING,Lance Chan
+6/10/2016 23:53,6/11/2016 0:01,Durham,Cary,9.9,RESTAURANT,Ryan Barnes
+6/11/2016 17:08,6/11/2016 17:16,Cary,Morrisville,3.7,OTHERS,Matthew Russell
+6/11/2016 17:34,6/11/2016 17:39,Morrisville,Cary,4.6,BAR,Matthew Russell
+6/11/2016 17:50,6/11/2016 17:56,Westpark Place,Whitebridge,1.7,BAR,John Peters
+6/11/2016 21:45,6/11/2016 22:04,Cary,Durham,10.4,SHOPPING,Kelly Torres
+6/11/2016 23:39,6/12/2016 0:05,Durham,Cary,9.9,PLAY ARENA,Michelle Day
+6/12/2016 19:53,6/12/2016 19:56,Cary,Morrisville,2.5,RESTAURANT,Sophia Hernandez
+6/12/2016 20:05,6/12/2016 20:16,Morrisville,Cary,4.3,OFFICE,Sophia Hernandez
+6/12/2016 21:58,6/12/2016 22:19,Parkway,Whitebridge,2.8,BAR,William Jennings
+6/13/2016 5:23,6/13/2016 5:42,Cary,Morrisville,8.4,PLAY ARENA,Richard Reid
+6/13/2016 14:17,6/13/2016 14:46,Oakland,Emeryville,13.2,OFFICE,Margaret Brock
+6/13/2016 18:08,6/13/2016 18:47,Emeryville,Berkeley,3.9,OFFICE,Troy Stewart
+6/13/2016 18:54,6/13/2016 19:23,Berkeley,Oakland,5.1,SHOPPING,William Walker
+6/13/2016 20:00,6/13/2016 20:05,Oakland,Unknown Location,5.2,RESTAURANT,Heather Maxwell
+6/14/2016 12:03,6/14/2016 12:21,Emeryville,San Francisco,9.8,BAR,David Patel
+6/14/2016 16:09,6/14/2016 16:39,San Francisco,Emeryville,11.6,RESTAURANT,William Jennings
+6/14/2016 17:15,6/14/2016 17:24,Emeryville,Oakland,5.1,OFFICE,Elizabeth Gross
+6/14/2016 17:27,6/14/2016 17:57,Downtown,Bay Farm Island,9.3,PLAY ARENA,Alexis Wang
+6/15/2016 1:46,6/15/2016 2:06,Kenner,New Orleans,12.4,RESTAURANT,Heather Mcguire
+6/15/2016 15:26,6/15/2016 15:34,CBD,Lower Garden District,1.9,GYM,Nicole Garrett
+6/15/2016 16:37,6/15/2016 17:02,Lower Garden District,Lakeview,6.4,BAR,Rose Cruz
+6/15/2016 17:29,6/15/2016 17:49,Lakeview,Storyville,5.5,RESTAURANT,Michelle Day
+6/15/2016 19:52,6/15/2016 19:58,Storyville,Faubourg Marigny,1.5,GYM,Alexandria Barrett
+6/16/2016 13:36,6/16/2016 14:30,New Orleans,Metairie,14.5,RESTAURANT,Rachel Williams
+6/16/2016 14:42,6/16/2016 14:46,Metairie,Kenner,2.7,BAR,George Thomas Jr.
+6/16/2016 15:17,6/16/2016 15:41,Kenner,New Orleans,15.0,PLAY ARENA,Mark Rodriguez DDS
+6/16/2016 19:39,6/16/2016 19:56,New Orleans,Kenner,12.9,PLAY ARENA,Matthew Russell
+6/16/2016 21:43,6/16/2016 21:56,Kenner,New Orleans,13.6,PLAY ARENA,Chad Davis
+6/17/2016 16:11,6/17/2016 16:44,New Orleans,Kenner,12.2,PLAY ARENA,Courtney Jones
+6/18/2016 0:29,6/18/2016 0:51,Morrisville,Cary,8.7,OFFICE,Erika Brown
+6/19/2016 2:39,6/19/2016 2:50,Cary,Raleigh,6.0,RESTAURANT,David Rodriguez
+6/19/2016 5:51,6/19/2016 6:00,Raleigh,Cary,5.9,OFFICE,Michelle Day
+6/21/2016 15:39,6/21/2016 16:08,Cary,Raleigh,19.3,PLAY ARENA,Mark Rodriguez DDS
+6/21/2016 17:11,6/21/2016 18:02,Raleigh,Cary,16.6,GYM,Troy Stewart
+6/24/2016 10:41,6/24/2016 10:57,Whitebridge,Waverly Place,7.1,OTHERS,Alexandra Lewis
+6/24/2016 11:54,6/24/2016 12:01,Waverly Place,Macgregor Downs,2.1,OTHERS,Kelly Torres
+6/24/2016 12:19,6/24/2016 12:37,Cary,Raleigh,8.6,PLAY ARENA,William Jennings
+6/24/2016 12:50,6/24/2016 13:12,Raleigh,Morrisville,9.0,OFFICE,Samantha Coleman
+6/24/2016 13:18,6/24/2016 13:27,Morrisville,Cary,3.1,SHOPPING,David Hartman
+6/24/2016 14:01,6/24/2016 14:20,Cary,Morrisville,8.4,PLAY ARENA,Richard Reid
+6/24/2016 20:44,6/24/2016 21:02,Kenner,New Orleans,12.8,OTHERS,Chad Davis
+6/25/2016 9:03,6/25/2016 9:12,CBD,Bywater,4.5,RESTAURANT,Kelly Torres
+6/25/2016 9:15,6/25/2016 10:08,New Orleans,Chalmette,11.8,OTHERS,John Medina
+6/25/2016 10:18,6/25/2016 10:25,Chalmette,Arabi,1.1,RESTAURANT,Heather Maxwell
+6/25/2016 10:50,6/25/2016 11:18,Arabi,Metairie,17.0,RESTAURANT,Brendan Rivera
+6/25/2016 11:25,6/25/2016 11:34,Pontchartrain Shores,Pontchartrain Shores,1.7,PLAY ARENA,Traci Braun
+6/25/2016 11:53,6/25/2016 13:21,Metairie,New Orleans,15.5,BAR,Matthew Russell
+6/25/2016 19:47,6/25/2016 19:58,Storyville,Marigny,1.6,PLAY ARENA,Paul Smith
+6/25/2016 23:19,6/25/2016 23:26,Marigny,Storyville,1.5,RESTAURANT,Rachel Williams
+6/26/2016 17:43,6/26/2016 18:18,New Orleans,Kenner,12.6,OFFICE,Margaret Brock
+6/26/2016 18:45,6/26/2016 19:12,Pontchartrain Shores,Pontchartrain Shores,4.8,GYM,Erika Brown
+6/26/2016 19:41,6/26/2016 19:50,Kenner,Kenner,2.2,OFFICE,Heather Mcguire
+6/26/2016 21:14,6/26/2016 21:42,Kenner,New Orleans,13.0,OTHERS,Lynn Elliott
+6/27/2016 7:37,6/27/2016 8:48,New Orleans,Covington,46.9,OFFICE,Lance Chan
+6/27/2016 8:51,6/27/2016 9:00,Covington,Covington,2.5,BAR,David Whitaker
+6/27/2016 9:05,6/27/2016 9:33,Covington,Covington,8.6,RESTAURANT,Cynthia Campbell
+6/27/2016 9:43,6/27/2016 10:08,Covington,Covington,5.2,SHOPPING,Nancy Brennan
+6/27/2016 10:22,6/27/2016 10:39,Covington,Covington,7.6,GYM,Michael Mckinney
+6/27/2016 10:51,6/27/2016 10:58,Covington,Covington,1.8,PLAY ARENA,Margaret Brock
+6/27/2016 11:06,6/27/2016 11:24,Covington,Mandeville,4.7,GYM,Rachel Williams
+6/27/2016 11:30,6/27/2016 11:42,Mandeville,Mandeville,2.8,RESTAURANT,Patricia Marshall
+6/27/2016 12:22,6/27/2016 13:02,Mandeville,Metairie,30.0,OTHERS,Chad Davis
+6/27/2016 13:56,6/27/2016 14:05,Metairie,Kenner,4.4,RESTAURANT,John Peters
+6/27/2016 21:09,6/27/2016 21:19,Jamestown Court,Jamestown Court,1.0,SHOPPING,Aaron Webb
+6/28/2016 0:48,6/28/2016 1:05,Morrisville,Cary,8.2,SHOPPING,Alexandra Lewis
+6/28/2016 20:13,6/28/2016 20:33,Cary,Durham,10.4,SHOPPING,Samantha Coleman
+6/28/2016 23:34,6/28/2016 23:59,Durham,Cary,9.9,BAR,David Patel
+6/28/2016 23:34,6/28/2016 23:59,Durham,Cary,9.9,OFFICE,Samantha Coleman
+6/29/2016 8:56,6/29/2016 9:24,Cary,Morrisville,7.3,PLAY ARENA,Troy Stewart
+6/29/2016 10:22,6/29/2016 10:38,Morrisville,Cary,7.4,OFFICE,Jeremy Price
+6/29/2016 11:49,6/29/2016 11:51,Whitebridge,Westpark Place,1.6,PLAY ARENA,Rachel Williams
+6/29/2016 12:11,6/29/2016 12:16,Westpark Place,Whitebridge,1.8,RESTAURANT,Rachel Williams
+6/29/2016 20:11,6/29/2016 20:29,Cary,Durham,10.4,SHOPPING,Troy Stewart
+6/29/2016 23:38,6/30/2016 0:00,Durham,Cary,9.9,OTHERS,Nicole Garrett
+6/30/2016 20:09,6/30/2016 20:26,Cary,Durham,9.9,OFFICE,Kelly Torres
+7/1/2016 0:00,7/1/2016 0:25,Durham,Cary,9.9,OFFICE,Ryan Barnes
+7/1/2016 9:34,7/1/2016 9:57,Cary,Raleigh,13.3,PLAY ARENA,David Patel
+7/1/2016 12:36,7/1/2016 13:00,Raleigh,Cary,11.3,OTHERS,Heather Mcguire
+7/1/2016 20:06,7/1/2016 20:24,Cary,Durham,10.5,BAR,William Jennings
+7/1/2016 23:48,7/2/2016 0:09,Durham,Cary,9.9,OFFICE,Alexis Barry
+7/2/2016 20:18,7/2/2016 20:36,Cary,Durham,10.1,RESTAURANT,Alexis Barry
+7/2/2016 23:48,7/3/2016 0:12,Durham,Cary,9.9,RESTAURANT,Nancy Brennan
+7/3/2016 0:28,7/3/2016 0:38,Cary,Morrisville,3.1,PLAY ARENA,Kylie Gordon
+7/3/2016 3:02,7/3/2016 3:08,Morrisville,Cary,3.1,RESTAURANT,Kelly Torres
+7/3/2016 20:00,7/3/2016 20:18,Cary,Durham,9.9,PLAY ARENA,Patricia Marshall
+7/4/2016 0:32,7/4/2016 0:47,Durham,Cary,9.9,BAR,Mark Rodriguez DDS
+7/4/2016 17:31,7/4/2016 17:49,Whitebridge,Summerwinds,8.8,SHOPPING,Ryan Barnes
+7/4/2016 18:23,7/4/2016 18:49,Summerwinds,Whitebridge,8.7,OFFICE,Patricia Marshall
+7/4/2016 20:00,7/4/2016 20:17,Cary,Durham,11.8,OTHERS,Samantha Coleman
+7/5/2016 0:00,7/5/2016 0:05,Parkwood,Parkwood,1.2,OTHERS,Michael Mckinney
+7/5/2016 0:08,7/5/2016 0:28,Durham,Cary,9.9,GYM,Alexandria Barrett
+7/5/2016 16:48,7/5/2016 16:52,Whitebridge,Whitebridge,0.6,BAR,Paul Smith
+7/5/2016 20:06,7/5/2016 20:26,Cary,Durham,9.9,BAR,Richard Reid
+7/5/2016 22:41,7/5/2016 23:02,Durham,Morrisville,8.6,GYM,Heather Mcguire
+7/6/2016 0:33,7/6/2016 0:53,Morrisville,Cary,6.3,RESTAURANT,Heather Maxwell
+7/6/2016 9:06,7/6/2016 9:25,Cary,Durham,9.9,RESTAURANT,David Whitaker
+7/6/2016 12:48,7/6/2016 13:08,Durham,Cary,9.9,SHOPPING,Kylie Gordon
+7/6/2016 20:04,7/6/2016 20:14,Cary,Morrisville,3.3,OTHERS,John Peters
+7/6/2016 23:46,7/6/2016 23:59,Morrisville,Cary,3.1,BAR,Lynn Elliott
+7/7/2016 8:22,7/7/2016 8:50,Cary,Morrisville,7.9,PLAY ARENA,Patricia Marshall
+7/7/2016 10:27,7/7/2016 10:33,Morrisville,Cary,8.9,BAR,Maria Tran
+7/7/2016 12:59,7/7/2016 13:35,Kenner,New Orleans,12.8,OTHERS,William Jennings
+7/8/2016 9:50,7/8/2016 10:13,CBD,Pontchartrain Beach,7.7,GYM,Alexis Wang
+7/8/2016 10:51,7/8/2016 11:12,Pontchartrain Beach,CBD,7.0,SHOPPING,Mark Rodriguez DDS
+7/8/2016 13:48,7/8/2016 14:11,New Orleans,Metairie,12.5,OTHERS,Lance Chan
+7/8/2016 17:11,7/8/2016 17:30,Kenner,New Orleans,13.2,RESTAURANT,William Jennings
+7/9/2016 9:03,7/9/2016 9:46,New Orleans,Kenner,13.0,OFFICE,Erika Brown
+7/9/2016 9:52,7/9/2016 10:06,Kenner,Metairie,4.9,BAR,Troy Stewart
+7/9/2016 10:15,7/9/2016 10:33,Metairie,New Orleans,8.5,SHOPPING,David Whitaker
+7/10/2016 14:10,7/10/2016 14:17,CBD,St Thomas,1.3,OFFICE,Tracy Hanna
+7/10/2016 16:04,7/10/2016 16:15,St Thomas,CBD,1.8,BAR,Steven Jones
+7/10/2016 18:05,7/10/2016 18:21,New Orleans,Kenner,13.6,SHOPPING,William Jennings
+7/10/2016 19:51,7/10/2016 20:08,Kenner,New Orleans,13.4,BAR,Courtney Jones
+7/12/2016 16:10,7/12/2016 16:45,New Orleans,Kenner,12.3,GYM,David Patel
+7/12/2016 19:21,7/12/2016 19:26,Kenner,Kenner,1.4,OTHERS,Patricia Marshall
+7/12/2016 23:47,7/13/2016 0:11,Morrisville,Cary,8.7,BAR,Sarah Peck
+7/13/2016 12:39,7/13/2016 13:20,Cary,Morrisville,23.5,OTHERS,Erika Brown
+7/13/2016 13:25,7/13/2016 13:39,Morrisville,Morrisville,2.2,PLAY ARENA,Heather Mcguire
+7/13/2016 13:42,7/13/2016 13:54,Morrisville,Cary,4.4,PLAY ARENA,Maria Tran
+7/14/2016 15:51,7/14/2016 15:59,Cary,Morrisville,3.3,SHOPPING,Maria Tran
+7/14/2016 16:03,7/14/2016 16:34,Morrisville,Morrisville,11.8,OFFICE,Tracy Hanna
+7/14/2016 16:39,7/14/2016 20:05,Morrisville,Banner Elk,195.3,PLAY ARENA,David Whitaker
+7/15/2016 11:32,7/15/2016 11:53,Banner Elk,Banner Elk,8.3,PLAY ARENA,Kelly Torres
+7/15/2016 12:09,7/15/2016 12:19,Banner Elk,Banner Elk,3.2,OTHERS,Brendan Rivera
+7/15/2016 12:35,7/15/2016 13:15,Banner Elk,Elk Park,22.4,RESTAURANT,Michelle Day
+7/15/2016 15:03,7/15/2016 15:33,Elk Park,Banner Elk,12.2,GYM,Ryan Barnes
+7/15/2016 15:40,7/15/2016 15:52,Banner Elk,Banner Elk,4.5,RESTAURANT,Patricia Marshall
+7/16/2016 13:14,7/16/2016 14:10,Banner Elk,Newland,28.1,SHOPPING,Alexis Barry
+7/16/2016 14:14,7/16/2016 14:30,Newland,Newland,3.8,SHOPPING,Matthew Russell
+7/16/2016 15:29,7/16/2016 16:57,Newland,Boone,41.9,RESTAURANT,William Jennings
+7/16/2016 19:42,7/16/2016 20:35,Boone,Banner Elk,23.8,GYM,Samantha Coleman
+7/16/2016 21:45,7/16/2016 22:18,Banner Elk,Banner Elk,13.0,RESTAURANT,George Thomas Jr.
+7/16/2016 22:50,7/16/2016 23:03,Banner Elk,Banner Elk,4.4,PLAY ARENA,Lance Chan
+7/17/2016 11:23,7/17/2016 11:50,Banner Elk,Boone,15.1,GYM,Cynthia Campbell
+7/17/2016 12:20,7/17/2016 15:25,Boone,Cary,180.2,OFFICE,Steven Jones
+7/18/2016 10:37,7/18/2016 10:49,Cary,Morrisville,4.1,BAR,Heather Mcguire
+7/18/2016 10:54,7/18/2016 11:15,Morrisville,Cary,6.1,OFFICE,Alexandra Lewis
+7/18/2016 11:25,7/18/2016 11:36,Northwoods,Preston,3.3,BAR,William Jennings
+7/18/2016 11:40,7/18/2016 11:56,Preston,Whitebridge,4.7,OTHERS,Kylie Gordon
+7/18/2016 17:12,7/18/2016 17:33,Cary,Apex,7.2,GYM,Alexandria Barrett
+7/18/2016 18:32,7/18/2016 18:47,Apex,Cary,5.5,BAR,Samantha Coleman
+7/18/2016 19:07,7/18/2016 19:14,Cary,Morrisville,3.3,PLAY ARENA,Richard Reid
+7/18/2016 20:28,7/18/2016 20:32,Hazelwood,Weston,0.9,OTHERS,John Medina
+7/18/2016 21:11,7/18/2016 21:19,Morrisville,Cary,3.8,GYM,Tracy Hanna
+7/19/2016 10:35,7/19/2016 10:51,Whitebridge,Stonewater,6.4,RESTAURANT,Nancy Brennan
+7/19/2016 10:56,7/19/2016 11:11,Stonewater,Lexington Park at Amberly,3.0,RESTAURANT,Richard Reid
+7/19/2016 11:30,7/19/2016 12:00,Lexington Park at Amberly,Whitebridge,8.7,OTHERS,Troy Stewart
+7/19/2016 17:14,7/19/2016 17:24,Whitebridge,Chessington,3.9,OTHERS,Traci Braun
+7/19/2016 17:50,7/19/2016 18:08,Chessington,Whitebridge,4.8,OTHERS,Courtney Jones
+7/20/2016 17:12,7/20/2016 17:24,Whitebridge,Edgehill Farms,2.8,BAR,William Jennings
+7/20/2016 17:50,7/20/2016 17:57,Edgehill Farms,Preston,1.4,GYM,Sophia Hernandez
+7/20/2016 18:16,7/20/2016 18:20,Preston,Whitebridge,1.4,BAR,Sophia Hernandez
+7/21/2016 17:17,7/21/2016 17:23,Whitebridge,Edgehill Farms,2.7,OTHERS,Lance Chan
+7/21/2016 17:42,7/21/2016 17:51,Edgehill Farms,Burtrose,2.3,GYM,John Peters
+7/21/2016 18:27,7/21/2016 18:42,Cary,Morrisville,3.7,BAR,Sophia Hernandez
+7/21/2016 19:30,7/21/2016 19:39,Morrisville,Cary,2.9,GYM,William Jennings
+7/22/2016 10:42,7/22/2016 10:53,Cary,Morrisville,3.8,GYM,Amber Young
+7/22/2016 11:11,7/22/2016 11:25,Morrisville,Cary,5.1,GYM,Aaron Webb
+7/22/2016 11:37,7/22/2016 12:00,Hazelwood,Lexington Park at Amberly,9.1,GYM,David Hartman
+7/22/2016 12:14,7/22/2016 12:31,Cary,Durham,8.0,BAR,William Jennings
+7/22/2016 13:21,7/22/2016 13:42,Durham,Cary,9.9,PLAY ARENA,John Medina
+7/22/2016 14:27,7/22/2016 14:43,Cary,Morrisville,6.1,OFFICE,Aaron Webb
+7/22/2016 15:49,7/22/2016 16:22,Morrisville,Cary,12.2,PLAY ARENA,David Rodriguez
+7/22/2016 18:33,7/22/2016 18:51,Wayne Ridge,Whitebridge,8.0,RESTAURANT,John Medina
+7/23/2016 14:27,7/23/2016 14:44,Cary,Morrisville,4.0,GYM,Brendan Rivera
+7/23/2016 14:48,7/23/2016 15:12,Morrisville,Cary,9.5,PLAY ARENA,Kylie Gordon
+7/23/2016 15:15,7/23/2016 15:27,Cary,Morrisville,3.0,PLAY ARENA,David Hartman
+7/23/2016 15:50,7/23/2016 16:10,Morrisville,Cary,6.3,PLAY ARENA,Tracy Hanna
+7/23/2016 20:17,7/23/2016 20:33,Cary,Durham,10.4,BAR,Richard Reid
+7/23/2016 23:18,7/23/2016 23:43,Durham,Cary,9.9,SHOPPING,Lance Chan
+7/25/2016 10:35,7/25/2016 10:41,Whitebridge,Parkway,1.5,OFFICE,Matthew Russell
+7/25/2016 10:47,7/25/2016 10:58,Cary,Morrisville,4.9,PLAY ARENA,John Medina
+7/25/2016 11:04,7/25/2016 11:33,Morrisville,Cary,7.9,OTHERS,Maria Tran
+7/25/2016 11:37,7/25/2016 11:44,Parkway,Whitebridge,1.7,OTHERS,Richard Reid
+7/26/2016 15:43,7/26/2016 15:49,Whitebridge,Westpark Place,2.2,OTHERS,Nancy Brennan
+7/26/2016 17:14,7/26/2016 17:24,Westpark Place,Whitebridge,2.1,RESTAURANT,Ryan Barnes
+7/26/2016 20:52,7/26/2016 21:00,Cary,Morrisville,2.5,BAR,Alexis Barry
+7/26/2016 22:31,7/26/2016 22:39,Morrisville,Cary,2.5,PLAY ARENA,Michelle Day
+7/27/2016 19:08,7/27/2016 19:20,Cary,Morrisville,2.8,RESTAURANT,Michelle Day
+7/27/2016 21:34,7/27/2016 21:57,Morrisville,Raleigh,14.7,GYM,David Whitaker
+7/27/2016 22:00,7/27/2016 22:26,Raleigh,Morrisville,14.6,PLAY ARENA,Rose Cruz
+7/28/2016 0:04,7/28/2016 0:09,Morrisville,Cary,2.3,GYM,Brendan Rivera
+7/29/2016 15:45,7/29/2016 15:47,Whitebridge,Westpark Place,2.2,BAR,Alexis Wang
+7/29/2016 17:27,7/29/2016 17:45,Westpark Place,Whitebridge,2.2,OTHERS,Chad Davis
+7/30/2016 17:02,7/30/2016 17:27,Cary,Durham,14.0,PLAY ARENA,William Walker
+7/30/2016 21:16,7/30/2016 21:41,Durham,Cary,13.3,PLAY ARENA,Kelly Torres
+7/31/2016 17:30,7/31/2016 17:37,Westpark Place,Whitebridge,1.8,RESTAURANT,Sarah Peck
+8/1/2016 12:47,8/1/2016 13:04,Whitebridge,Arlington Park at Amberly,6.2,OTHERS,Courtney Jones
+8/1/2016 13:08,8/1/2016 13:19,Arlington Park at Amberly,Lexington Park at Amberly,1.3,PLAY ARENA,Ryan Barnes
+8/1/2016 13:28,8/1/2016 13:46,Lexington Park at Amberly,Westpark Place,1.9,RESTAURANT,William Jennings
+8/1/2016 13:52,8/1/2016 14:14,Cary,Apex,6.9,OTHERS,Matthew Russell
+8/1/2016 15:40,8/1/2016 15:47,Apex,Cary,4.6,SHOPPING,Heather Maxwell
+8/1/2016 16:18,8/1/2016 16:25,Whitebridge,Edgehill Farms,2.8,SHOPPING,Cynthia Campbell
+8/1/2016 16:29,8/1/2016 16:59,Cary,Morrisville,9.1,SHOPPING,Troy Stewart
+8/1/2016 17:23,8/1/2016 17:55,Morrisville,Cary,8.1,OFFICE,Michael Mckinney
+8/2/2016 8:11,8/2/2016 8:32,Cary,Morrisville,8.4,OTHERS,David Patel
+8/2/2016 11:51,8/2/2016 12:15,Arlington,Washington,4.9,OTHERS,Rachel Williams
+8/2/2016 19:15,8/2/2016 19:23,Kalorama Triangle,K Street,1.0,OTHERS,Aaron Webb
+8/2/2016 21:23,8/2/2016 21:29,K Street,Kalorama Triangle,1.0,OTHERS,Alexis Wang
+8/3/2016 12:46,8/3/2016 13:00,West End,Northwest Rectangle,2.0,OFFICE,John Peters
+8/3/2016 14:59,8/3/2016 15:03,K Street,Kalorama Triangle,1.1,PLAY ARENA,Cynthia Campbell
+8/3/2016 16:00,8/3/2016 16:04,Kalorama Triangle,Downtown,1.5,GYM,Nicole Garrett
+8/5/2016 17:23,8/5/2016 17:30,Connecticut Avenue,Kalorama Triangle,1.3,GYM,David Rodriguez
+8/5/2016 18:17,8/5/2016 18:21,Kalorama Triangle,Columbia Heights,1.8,GYM,Troy Stewart
+8/5/2016 19:17,8/5/2016 19:27,Columbia Heights,Kalorama Triangle,1.5,BAR,Paul Smith
+8/6/2016 6:40,8/6/2016 6:58,Washington,Arlington,6.6,RESTAURANT,Sophia Hernandez
+8/6/2016 9:31,8/6/2016 9:53,Morrisville,Cary,8.0,RESTAURANT,Alexandra Lewis
+8/7/2016 17:14,8/7/2016 17:23,Whitebridge,Edgehill Farms,2.7,BAR,John Medina
+8/7/2016 17:28,8/7/2016 17:43,Edgehill Farms,Whitebridge,2.7,OFFICE,Elizabeth Gross
+8/7/2016 18:17,8/7/2016 18:23,Cary,Morrisville,2.5,SHOPPING,David Whitaker
+8/7/2016 20:15,8/7/2016 20:23,Morrisville,Cary,2.5,GYM,David Rodriguez
+8/8/2016 16:17,8/8/2016 16:31,Whitebridge,Farmington Woods,5.2,PLAY ARENA,Michelle Day
+8/8/2016 16:37,8/8/2016 16:50,Farmington Woods,Edgehill Farms,4.0,SHOPPING,Mark Rodriguez DDS
+8/8/2016 17:02,8/8/2016 17:13,Edgehill Farms,Whitebridge,2.7,BAR,Brendan Rivera
+8/8/2016 21:50,8/8/2016 22:15,Cary,Morrisville,4.8,BAR,Jeremy Price
+8/8/2016 23:28,8/8/2016 23:37,Morrisville,Cary,3.2,BAR,Steven Jones
+8/9/2016 14:20,8/9/2016 14:38,Whitebridge,Waverly Place,6.9,PLAY ARENA,Mark Rodriguez DDS
+8/9/2016 15:15,8/9/2016 15:36,Cary,Raleigh,14.9,BAR,Mark Rodriguez DDS
+8/9/2016 16:04,8/9/2016 16:37,Raleigh,Cary,17.4,PLAY ARENA,Maria Tran
+8/10/2016 16:56,8/10/2016 17:24,Cary,Durham,12.9,SHOPPING,Kelly Torres
+8/10/2016 17:53,8/10/2016 18:28,Durham,Apex,15.3,OFFICE,Sophia Hernandez
+8/10/2016 18:49,8/10/2016 18:50,Apex,Apex,1.0,RESTAURANT,Heather Maxwell
+8/10/2016 19:47,8/10/2016 20:02,Apex,Cary,6.0,PLAY ARENA,Heather Maxwell
+8/11/2016 12:53,8/11/2016 13:00,Whitebridge,Heritage Pines,2.2,RESTAURANT,Kelly Torres
+8/11/2016 13:14,8/11/2016 13:28,Heritage Pines,Edgehill Farms,4.4,OFFICE,Patricia Marshall
+8/11/2016 13:32,8/11/2016 13:42,Edgehill Farms,Whitebridge,2.8,SHOPPING,Tracy Hanna
+8/11/2016 18:37,8/11/2016 19:29,Cary,Wake Forest,31.7,BAR,Wesley Wilson
+8/11/2016 20:59,8/11/2016 21:44,Wake Forest,Cary,31.9,OTHERS,Jeremy Price
+8/12/2016 18:49,8/12/2016 18:52,Whitebridge,Westpark Place,1.9,PLAY ARENA,Tracy Hanna
+8/12/2016 18:56,8/12/2016 19:05,Westpark Place,Whitebridge,1.8,BAR,Heather Mcguire
+8/13/2016 15:35,8/13/2016 15:58,Cary,Morrisville,8.4,OFFICE,William Walker
+8/15/2016 9:05,8/15/2016 9:52,R?walpindi,Unknown Location,15.6,BAR,Lynn Elliott
+8/15/2016 15:20,8/15/2016 15:47,Unknown Location,Unknown Location,14.1,GYM,Lance Chan
+8/15/2016 16:52,8/15/2016 17:30,Unknown Location,Unknown Location,15.7,OFFICE,William Walker
+8/15/2016 19:08,8/15/2016 20:30,Unknown Location,Unknown Location,25.9,OTHERS,Michael Mckinney
+8/16/2016 7:58,8/16/2016 8:11,Unknown Location,Unknown Location,7.9,GYM,Alexis Barry
+8/16/2016 8:16,8/16/2016 8:23,Unknown Location,Unknown Location,2.7,RESTAURANT,William Walker
+8/16/2016 8:46,8/16/2016 8:53,Unknown Location,Unknown Location,5.5,RESTAURANT,Lance Chan
+8/16/2016 10:06,8/16/2016 10:27,Unknown Location,Islamabad,5.7,OTHERS,Kylie Gordon
+8/16/2016 10:31,8/16/2016 10:38,Islamabad,Islamabad,1.2,OFFICE,Kelly Torres
+8/16/2016 11:47,8/16/2016 12:03,Islamabad,Unknown Location,5.7,OFFICE,Aaron Webb
+8/16/2016 15:13,8/16/2016 15:36,Unknown Location,Unknown Location,16.2,OFFICE,Matthew Russell
+8/17/2016 10:17,8/17/2016 10:41,Unknown Location,Unknown Location,2.6,SHOPPING,Elizabeth Gross
+8/17/2016 10:57,8/17/2016 11:20,Unknown Location,Unknown Location,12.1,RESTAURANT,Michelle Day
+8/17/2016 14:45,8/17/2016 14:50,Unknown Location,R?walpindi,1.4,SHOPPING,Brendan Rivera
+8/17/2016 15:32,8/17/2016 15:47,R?walpindi,Islamabad,6.4,RESTAURANT,Alexandria Barrett
+8/17/2016 16:29,8/17/2016 16:50,Islamabad,Unknown Location,7.3,BAR,Rose Cruz
+8/17/2016 16:54,8/17/2016 17:00,Unknown Location,Unknown Location,5.3,GYM,Wesley Wilson
+8/17/2016 17:05,8/17/2016 17:34,Unknown Location,Unknown Location,5.5,SHOPPING,Rachel Williams
+8/17/2016 18:38,8/17/2016 18:57,Unknown Location,Unknown Location,7.7,OFFICE,Rose Cruz
+8/18/2016 18:40,8/18/2016 19:07,Unknown Location,Unknown Location,7.6,PLAY ARENA,Heather Mcguire
+8/19/2016 8:24,8/19/2016 8:45,Unknown Location,Noorpur Shahan,7.6,GYM,William Walker
+8/19/2016 8:54,8/19/2016 9:07,Noorpur Shahan,Islamabad,3.3,PLAY ARENA,Sarah Peck
+8/19/2016 9:27,8/19/2016 9:47,Islamabad,R?walpindi,6.5,BAR,Alexandria Barrett
+8/19/2016 10:57,8/19/2016 11:06,R?walpindi,Unknown Location,2.0,SHOPPING,Kylie Gordon
+8/19/2016 12:07,8/19/2016 12:24,Unknown Location,Islamabad,5.7,PLAY ARENA,Margaret Brock
+8/19/2016 15:51,8/19/2016 16:06,Islamabad,Islamabad,3.2,OTHERS,Richard Reid
+8/19/2016 17:12,8/19/2016 17:52,Islamabad,Unknown Location,12.5,RESTAURANT,Rachel Williams
+8/21/2016 10:00,8/21/2016 10:29,Unknown Location,Unknown Location,7.6,OFFICE,David Whitaker
+8/21/2016 14:05,8/21/2016 14:34,Unknown Location,Unknown Location,7.7,PLAY ARENA,Erika Brown
+8/21/2016 16:30,8/21/2016 17:02,Unknown Location,Islamabad,12.2,BAR,Jeremy Price
+8/21/2016 18:10,8/21/2016 18:17,Islamabad,Islamabad,1.4,GYM,Alexis Wang
+8/21/2016 18:48,8/21/2016 19:24,Islamabad,Unknown Location,20.2,RESTAURANT,Samantha Coleman
+8/22/2016 10:00,8/22/2016 10:44,Unknown Location,Islamabad,9.8,PLAY ARENA,Mark Rodriguez DDS
+8/22/2016 11:07,8/22/2016 11:23,Islamabad,Unknown Location,6.3,GYM,Paul Smith
+8/22/2016 12:36,8/22/2016 12:49,Unknown Location,Islamabad,4.9,BAR,Nancy Brennan
+8/22/2016 13:02,8/22/2016 13:11,Islamabad,Islamabad,1.5,RESTAURANT,Steven Jones
+8/22/2016 14:07,8/22/2016 14:31,Islamabad,Unknown Location,10.9,SHOPPING,David Hartman
+8/22/2016 15:14,8/22/2016 15:49,Unknown Location,Unknown Location,19.0,GYM,Heather Maxwell
+8/22/2016 15:59,8/22/2016 17:16,Unknown Location,Unknown Location,19.0,PLAY ARENA,Elizabeth Gross
+8/22/2016 19:58,8/22/2016 20:50,Unknown Location,R?walpindi,7.9,GYM,William Jennings
+8/22/2016 20:53,8/22/2016 21:31,R?walpindi,R?walpindi,4.1,BAR,Heather Maxwell
+8/22/2016 22:31,8/22/2016 23:00,R?walpindi,Unknown Location,18.7,GYM,William Jennings
+8/23/2016 8:10,8/23/2016 8:25,Unknown Location,Noorpur Shahan,8.7,PLAY ARENA,Heather Maxwell
+8/23/2016 9:35,8/23/2016 10:09,Noorpur Shahan,Unknown Location,7.5,GYM,Brendan Rivera
+8/23/2016 12:59,8/23/2016 13:15,Unknown Location,Noorpur Shahan,7.7,OFFICE,Samantha Coleman
+8/23/2016 13:19,8/23/2016 13:30,Noorpur Shahan,Islamabad,4.4,RESTAURANT,Samantha Coleman
+8/23/2016 13:49,8/23/2016 14:04,Islamabad,Unknown Location,5.0,GYM,Steven Jones
+8/23/2016 15:07,8/23/2016 15:12,Unknown Location,Unknown Location,1.9,SHOPPING,Alexis Wang
+8/23/2016 15:15,8/23/2016 17:16,Unknown Location,Unknown Location,7.9,OTHERS,Ryan Barnes
+8/23/2016 17:42,8/23/2016 18:31,Unknown Location,Unknown Location,17.7,GYM,Nicole Garrett
+8/24/2016 12:05,8/24/2016 12:56,Unknown Location,Unknown Location,25.2,RESTAURANT,Courtney Jones
+8/24/2016 13:01,8/24/2016 15:25,Unknown Location,Unknown Location,96.2,RESTAURANT,Alexis Wang
+8/25/2016 15:17,8/25/2016 16:22,Unknown Location,Unknown Location,35.0,GYM,Aaron Webb
+8/25/2016 16:36,8/25/2016 16:56,Unknown Location,Unknown Location,5.5,GYM,Jeremy Price
+8/25/2016 17:19,8/25/2016 19:20,Unknown Location,Unknown Location,50.4,OFFICE,William Jennings
+8/25/2016 19:25,8/25/2016 19:57,Unknown Location,Lahore,9.2,SHOPPING,Kelly Torres
+8/25/2016 22:58,8/25/2016 23:16,Lahore,Unknown Location,7.3,PLAY ARENA,Cynthia Campbell
+8/26/2016 9:06,8/26/2016 9:20,Unknown Location,Unknown Location,5.0,RESTAURANT,John Peters
+8/26/2016 11:14,8/26/2016 11:26,Unknown Location,Unknown Location,3.8,OFFICE,Michelle Day
+8/26/2016 12:10,8/26/2016 12:20,Unknown Location,Lahore,3.9,OTHERS,Lynn Elliott
+8/26/2016 14:10,8/26/2016 14:33,Lahore,Lahore,7.4,RESTAURANT,Amber Young
+8/26/2016 15:23,8/26/2016 15:35,Lahore,Lahore,1.5,GYM,Cynthia Campbell
+8/26/2016 15:59,8/26/2016 16:24,Lahore,Unknown Location,7.9,RESTAURANT,Traci Braun
+8/26/2016 16:55,8/26/2016 17:12,Unknown Location,Lahore,2.9,BAR,Brendan Rivera
+8/26/2016 18:42,8/26/2016 18:56,Lahore,Lahore,3.4,OFFICE,David Hartman
+8/26/2016 19:31,8/26/2016 19:54,Lahore,Lahore,3.8,SHOPPING,John Medina
+8/26/2016 20:06,8/26/2016 20:16,Lahore,Unknown Location,5.9,BAR,Michael Mckinney
+8/27/2016 9:34,8/27/2016 10:11,Unknown Location,Lahore,9.6,SHOPPING,Courtney Jones
+8/27/2016 11:47,8/27/2016 12:06,Lahore,Lahore,7.0,PLAY ARENA,Matthew Russell
+8/27/2016 12:12,8/27/2016 12:17,Lahore,Lahore,0.9,GYM,Matthew Russell
+8/27/2016 14:01,8/27/2016 15:44,Lahore,Unknown Location,86.6,BAR,Alexandria Barrett
+8/27/2016 16:15,8/27/2016 19:13,Unknown Location,Unknown Location,156.9,OFFICE,Traci Braun
+8/28/2016 9:57,8/28/2016 10:18,Unknown Location,Noorpur Shahan,10.1,BAR,Rachel Williams
+8/28/2016 16:39,8/28/2016 16:55,Noorpur Shahan,Islamabad,6.2,SHOPPING,David Whitaker
+8/28/2016 17:37,8/28/2016 17:55,Islamabad,Islamabad,5.3,GYM,Aaron Webb
+8/28/2016 21:15,8/28/2016 21:59,Islamabad,Unknown Location,12.1,OTHERS,Heather Maxwell
+8/29/2016 12:02,8/29/2016 12:31,Unknown Location,Islamabad,10.8,RESTAURANT,Cynthia Campbell
+8/29/2016 13:38,8/29/2016 13:48,Islamabad,Islamabad,4.3,BAR,Troy Stewart
+8/29/2016 14:31,8/29/2016 14:41,Islamabad,Islamabad,2.5,GYM,Wesley Wilson
+8/29/2016 14:49,8/29/2016 15:04,Islamabad,Unknown Location,5.7,RESTAURANT,Kylie Gordon
+8/29/2016 15:49,8/29/2016 15:59,Unknown Location,Islamabad,2.8,SHOPPING,Matthew Russell
+8/29/2016 16:06,8/29/2016 16:21,Islamabad,Unknown Location,4.0,BAR,Nancy Brennan
+8/29/2016 17:24,8/29/2016 17:41,Unknown Location,Islamabad,5.5,OFFICE,Margaret Brock
+8/29/2016 18:27,8/29/2016 18:36,Islamabad,Islamabad,2.6,OFFICE,Rachel Williams
+8/30/2016 11:53,8/30/2016 12:05,Unknown Location,Unknown Location,2.1,RESTAURANT,Lance Chan
+8/30/2016 12:46,8/30/2016 13:09,Unknown Location,Islamabad,8.8,OFFICE,Richard Reid
+8/30/2016 13:25,8/30/2016 13:46,Islamabad,Islamabad,4.4,RESTAURANT,Heather Maxwell
+8/30/2016 14:00,8/30/2016 14:20,Islamabad,Unknown Location,5.3,GYM,Traci Braun
+8/30/2016 17:27,8/30/2016 18:09,Unknown Location,Unknown Location,13.0,OTHERS,Patricia Marshall
+9/1/2016 11:51,9/1/2016 12:24,Unknown Location,Islamabad,13.0,PLAY ARENA,Alexandria Barrett
+9/1/2016 17:21,9/1/2016 17:36,Islamabad,Unknown Location,10.6,PLAY ARENA,Heather Mcguire
+9/1/2016 18:49,9/1/2016 19:08,Unknown Location,Unknown Location,2.2,GYM,Rachel Williams
+9/2/2016 11:37,9/2/2016 12:24,Unknown Location,Islamabad,9.2,OFFICE,Jeremy Price
+9/2/2016 18:56,9/2/2016 19:37,Unknown Location,Unknown Location,12.9,PLAY ARENA,Sarah Peck
+9/5/2016 10:25,9/5/2016 10:44,Unknown Location,R?walpindi,17.2,GYM,Margaret Brock
+9/6/2016 17:49,9/6/2016 17:49,Unknown Location,Unknown Location,69.1,PLAY ARENA,Mark Rodriguez DDS
+9/10/2016 10:28,9/10/2016 10:45,Unknown Location,Unknown Location,2.8,OTHERS,John Medina
+9/11/2016 9:51,9/11/2016 9:55,Unknown Location,Unknown Location,8.6,RESTAURANT,William Jennings
+9/11/2016 21:40,9/11/2016 21:42,Unknown Location,Unknown Location,9.8,BAR,Chad Davis
+9/12/2016 8:07,9/12/2016 8:12,Unknown Location,Unknown Location,3.6,BAR,Michael Mckinney
+9/12/2016 11:15,9/12/2016 11:24,Unknown Location,Unknown Location,1.7,OTHERS,John Peters
+9/12/2016 13:04,9/12/2016 13:44,Unknown Location,Unknown Location,11.5,SHOPPING,Steven Jones
+9/13/2016 16:56,9/13/2016 17:02,Unknown Location,Unknown Location,0.7,GYM,Chad Davis
+9/14/2016 11:55,9/14/2016 11:59,Unknown Location,Unknown Location,0.7,BAR,William Walker
+9/15/2016 20:33,9/15/2016 20:38,Unknown Location,Unknown Location,0.9,BAR,Richard Reid
+9/16/2016 7:08,9/16/2016 7:08,Unknown Location,Unknown Location,1.6,PLAY ARENA,Michael Mckinney
+9/18/2016 18:07,9/18/2016 18:11,Unknown Location,Unknown Location,9.4,OTHERS,David Patel
+9/19/2016 6:18,9/19/2016 6:49,R?walpindi,Unknown Location,18.2,OFFICE,Lynn Elliott
+9/19/2016 14:40,9/19/2016 14:56,Unknown Location,Islamabad,10.5,GYM,David Patel
+9/19/2016 16:23,9/19/2016 16:31,Islamabad,Unknown Location,5.7,SHOPPING,John Medina
+9/19/2016 17:36,9/19/2016 18:20,Unknown Location,Unknown Location,18.0,PLAY ARENA,Heather Mcguire
+9/19/2016 19:10,9/19/2016 19:49,Unknown Location,Islamabad,18.3,PLAY ARENA,John Peters
+9/20/2016 11:29,9/20/2016 11:48,Islamabad,Unknown Location,16.5,OFFICE,Ryan Barnes
+9/20/2016 20:47,9/20/2016 22:47,Unknown Location,R?walpindi,9.6,RESTAURANT,Lance Chan
+9/23/2016 13:15,9/23/2016 13:40,Karachi,Karachi,2.9,PLAY ARENA,Samantha Coleman
+9/24/2016 14:34,9/24/2016 15:15,Karachi,Unknown Location,8.2,OFFICE,Cynthia Campbell
+9/24/2016 20:29,9/24/2016 20:33,Unknown Location,Unknown Location,2.4,RESTAURANT,Alexis Wang
+9/27/2016 8:33,9/27/2016 8:35,Unknown Location,Unknown Location,5.8,GYM,Samantha Coleman
+9/27/2016 13:21,9/27/2016 14:43,Lahore,Lahore,9.8,PLAY ARENA,Ryan Barnes
+9/27/2016 19:14,9/27/2016 20:34,Lahore,Unknown Location,7.3,BAR,Heather Maxwell
+9/27/2016 21:01,9/28/2016 2:37,Unknown Location,Unknown Location,195.6,SHOPPING,Sophia Hernandez
+9/28/2016 17:21,9/28/2016 19:36,Islamabad,Unknown Location,20.5,GYM,Lance Chan
+9/29/2016 16:13,9/29/2016 18:47,Unknown Location,Islamabad,12.6,GYM,Margaret Brock
+9/30/2016 17:39,9/30/2016 20:20,Islamabad,Islamabad,37.7,RESTAURANT,Nancy Brennan
+9/30/2016 20:59,9/30/2016 22:34,Islamabad,Unknown Location,16.7,RESTAURANT,Amber Young
+10/3/2016 17:09,10/3/2016 17:12,Unknown Location,Islamabad,10.5,BAR,Alexandria Barrett
+10/3/2016 18:17,10/3/2016 18:34,Islamabad,Islamabad,2.8,SHOPPING,Sophia Hernandez
+10/3/2016 18:51,10/3/2016 19:01,Islamabad,Islamabad,1.6,OTHERS,Courtney Jones
+10/3/2016 22:04,10/3/2016 22:33,Islamabad,Unknown Location,12.7,SHOPPING,Troy Stewart
+10/4/2016 9:50,10/4/2016 10:52,Unknown Location,Unknown Location,28.6,OFFICE,Rose Cruz
+10/4/2016 12:17,10/4/2016 12:18,Unknown Location,Unknown Location,15.1,SHOPPING,Elizabeth Gross
+10/6/2016 8:49,10/6/2016 11:36,Unknown Location,R?walpindi,17.9,BAR,Kelly Torres
+10/6/2016 17:23,10/6/2016 17:40,R?walpindi,Unknown Location,112.6,SHOPPING,Lynn Elliott
+10/6/2016 18:37,10/6/2016 18:39,Unknown Location,Unknown Location,18.4,OTHERS,Richard Reid
+10/6/2016 19:46,10/6/2016 20:26,Unknown Location,Unknown Location,13.8,OFFICE,Troy Stewart
+10/7/2016 10:56,10/7/2016 10:59,Unknown Location,Lahore,33.2,OTHERS,Samantha Coleman
+10/7/2016 11:27,10/7/2016 11:50,Lahore,Lahore,2.6,SHOPPING,Ryan Barnes
+10/7/2016 13:52,10/7/2016 14:08,Lahore,Unknown Location,5.8,RESTAURANT,Kylie Gordon
+10/7/2016 14:29,10/7/2016 15:11,Unknown Location,Lahore,8.3,SHOPPING,Rachel Williams
+10/7/2016 15:47,10/7/2016 16:02,Lahore,Lahore,2.4,OFFICE,Michael Mckinney
+10/7/2016 18:08,10/7/2016 18:27,Lahore,Lahore,3.1,SHOPPING,Wesley Wilson
+10/7/2016 18:33,10/7/2016 19:01,Lahore,Lahore,6.1,RESTAURANT,David Hartman
+10/8/2016 15:03,10/8/2016 15:03,Karachi,Karachi,3.6,PLAY ARENA,Sarah Peck
+10/8/2016 18:15,10/8/2016 18:18,Karachi,Unknown Location,8.0,BAR,Elizabeth Gross
+10/9/2016 14:04,10/9/2016 14:23,Unknown Location,Unknown Location,7.7,RESTAURANT,Kylie Gordon
+10/10/2016 17:22,10/10/2016 17:28,Islamabad,Islamabad,1.7,RESTAURANT,David Hartman
+10/10/2016 17:33,10/10/2016 18:13,Islamabad,Unknown Location,9.5,OTHERS,Troy Stewart
+10/11/2016 1:27,10/11/2016 2:08,Unknown Location,R?walpindi,17.1,RESTAURANT,William Walker
+10/12/2016 19:18,10/12/2016 19:21,R?walpindi,Unknown Location,18.4,OFFICE,Kylie Gordon
+10/13/2016 11:20,10/13/2016 11:58,Unknown Location,Islamabad,9.8,OTHERS,William Jennings
+10/13/2016 12:08,10/13/2016 12:14,Islamabad,Islamabad,1.0,GYM,Courtney Jones
+10/13/2016 13:02,10/13/2016 13:02,Islamabad,Islamabad,0.7,PLAY ARENA,Alexandra Lewis
+10/13/2016 13:37,10/13/2016 13:46,Islamabad,Islamabad,2.3,SHOPPING,Patricia Marshall
+10/13/2016 16:08,10/13/2016 16:53,Islamabad,Unknown Location,10.9,OTHERS,Kylie Gordon
+10/14/2016 8:50,10/14/2016 9:44,Unknown Location,R?walpindi,12.7,PLAY ARENA,David Hartman
+10/14/2016 10:16,10/14/2016 10:52,R?walpindi,Unknown Location,12.4,OTHERS,Alexis Barry
+10/14/2016 15:56,10/14/2016 16:20,Unknown Location,Unknown Location,3.8,OFFICE,Paul Smith
+10/14/2016 23:54,10/15/2016 2:06,Unknown Location,R?walpindi,17.0,BAR,John Peters
+10/15/2016 22:28,10/15/2016 22:48,Morrisville,Morrisville,6.2,GYM,Sarah Peck
+10/16/2016 0:01,10/16/2016 0:14,Morrisville,Cary,3.1,SHOPPING,Wesley Wilson
+10/16/2016 12:52,10/16/2016 13:11,Cary,Durham,10.5,RESTAURANT,Jeremy Price
+10/16/2016 14:40,10/16/2016 15:01,Durham,Morrisville,8.1,OFFICE,John Peters
+10/16/2016 15:10,10/16/2016 15:19,Morrisville,Cary,3.1,RESTAURANT,Troy Stewart
+10/16/2016 19:27,10/16/2016 19:33,Whitebridge,Parkway,2.1,OFFICE,Maria Tran
+10/16/2016 20:30,10/16/2016 20:39,Cary,Morrisville,4.3,RESTAURANT,Alexis Barry
+10/16/2016 21:34,10/16/2016 21:41,Morrisville,Cary,2.5,PLAY ARENA,John Medina
+10/17/2016 15:19,10/17/2016 15:57,Cary,Raleigh,20.6,OTHERS,Nancy Brennan
+10/17/2016 16:29,10/17/2016 17:11,Raleigh,Cary,17.6,BAR,Amber Young
+10/17/2016 18:02,10/17/2016 18:16,Cary,Apex,5.6,BAR,Steven Jones
+10/17/2016 18:31,10/17/2016 18:45,Apex,Apex,3.3,GYM,Chad Davis
+10/17/2016 19:08,10/17/2016 19:25,Apex,Cary,5.3,BAR,Rose Cruz
+10/18/2016 8:12,10/18/2016 8:22,Whitebridge,Edgehill Farms,3.3,OTHERS,John Peters
+10/18/2016 8:53,10/18/2016 9:02,Edgehill Farms,Whitebridge,3.3,OFFICE,David Patel
+10/18/2016 10:41,10/18/2016 11:09,Cary,Morrisville,7.9,GYM,Alexandria Barrett
+10/18/2016 18:12,10/18/2016 18:33,Oakland,Emeryville,13.0,PLAY ARENA,Brendan Rivera
+10/18/2016 19:03,10/18/2016 19:13,Emeryville,Berkeley,3.0,PLAY ARENA,Samantha Coleman
+10/18/2016 20:31,10/18/2016 20:37,Berkeley,Emeryville,3.0,SHOPPING,David Hartman
+10/19/2016 9:33,10/19/2016 9:47,Emeryville,Oakland,3.8,OFFICE,Rachel Williams
+10/19/2016 9:54,10/19/2016 10:21,Oakland,San Francisco,9.5,GYM,Kylie Gordon
+10/19/2016 13:45,10/19/2016 13:56,SOMISSPO,French Quarter,1.7,SHOPPING,Jeremy Price
+10/19/2016 14:02,10/19/2016 14:31,San Francisco,Berkeley,10.8,RESTAURANT,Nicole Garrett
+10/19/2016 15:44,10/19/2016 16:02,West Berkeley,North Berkeley Hills,4.1,PLAY ARENA,Michael Mckinney
+10/19/2016 16:06,10/19/2016 16:19,North Berkeley Hills,Southside,2.2,OFFICE,Tracy Hanna
+10/19/2016 16:33,10/19/2016 17:01,Berkeley,Emeryville,4.6,SHOPPING,Aaron Webb
+10/20/2016 11:26,10/20/2016 11:34,Emeryville,Berkeley,3.1,BAR,Mark Rodriguez DDS
+10/20/2016 12:19,10/20/2016 13:17,Berkeley,San Jose,47.7,GYM,Troy Stewart
+10/20/2016 20:44,10/20/2016 21:37,San Jose,Emeryville,44.6,BAR,Michael Mckinney
+10/21/2016 10:06,10/21/2016 10:21,Emeryville,Oakland,13.2,PLAY ARENA,Paul Smith
+10/22/2016 0:54,10/22/2016 1:09,Morrisville,Cary,8.7,GYM,Matthew Russell
+10/22/2016 13:26,10/22/2016 14:03,Cary,Raleigh,17.2,RESTAURANT,Maria Tran
+10/22/2016 17:08,10/22/2016 17:55,Raleigh,Cary,14.0,PLAY ARENA,Sophia Hernandez
+10/23/2016 9:24,10/23/2016 10:05,Cary,Raleigh,28.1,BAR,Amber Young
+10/23/2016 12:17,10/23/2016 12:59,Raleigh,Cary,28.2,RESTAURANT,Richard Reid
+10/23/2016 19:04,10/23/2016 19:14,Cary,Morrisville,3.1,PLAY ARENA,Samantha Coleman
+10/23/2016 21:10,10/23/2016 21:25,Morrisville,Cary,3.1,SHOPPING,Erika Brown
+10/24/2016 14:57,10/24/2016 15:26,Cary,Durham,16.4,SHOPPING,Richard Reid
+10/24/2016 15:33,10/24/2016 16:13,Durham,Morrisville,15.4,GYM,Nancy Brennan
+10/24/2016 16:34,10/24/2016 16:41,Morrisville,Cary,2.2,RESTAURANT,William Walker
+10/25/2016 13:27,10/25/2016 14:08,Cary,Apex,11.2,SHOPPING,Mark Rodriguez DDS
+10/25/2016 15:04,10/25/2016 15:11,Apex,Eagle Rock,2.2,GYM,Samantha Coleman
+10/25/2016 15:16,10/25/2016 15:33,Eagle Rock,Cary,3.6,PLAY ARENA,Sophia Hernandez
+10/25/2016 20:00,10/25/2016 20:11,Whitebridge,Savon Height,3.6,BAR,William Jennings
+10/25/2016 20:54,10/25/2016 21:03,Savon Height,Parkway,4.9,OTHERS,Heather Mcguire
+10/25/2016 22:24,10/25/2016 22:45,Parkway,Whitebridge,8.7,OFFICE,David Rodriguez
+10/26/2016 19:25,10/26/2016 19:31,Whitebridge,Parkway,2.1,PLAY ARENA,William Jennings
+10/26/2016 20:53,10/26/2016 21:03,Parkway,Whitebridge,2.1,SHOPPING,Alexis Barry
+10/27/2016 18:51,10/27/2016 19:16,Cary,Morrisville,8.4,SHOPPING,Steven Jones
+10/27/2016 19:20,10/27/2016 19:35,Morrisville,Morrisville,5.9,RESTAURANT,Margaret Brock
+10/27/2016 19:52,10/27/2016 20:21,Huntington Woods,Huntington Woods,12.1,OFFICE,Patricia Marshall
+10/27/2016 20:47,10/27/2016 20:54,Huntington Woods,Weston,3.9,OTHERS,Chad Davis
+10/27/2016 21:26,10/27/2016 21:48,Morrisville,Cary,6.2,GYM,Troy Stewart
+10/28/2016 11:34,10/28/2016 11:52,Cary,Durham,10.4,RESTAURANT,Maria Tran
+10/28/2016 13:06,10/28/2016 13:36,Durham,Cary,9.9,GYM,Kelly Torres
+10/28/2016 15:53,10/28/2016 17:59,Cary,Winston Salem,107.0,OFFICE,Ryan Barnes
+10/28/2016 18:13,10/28/2016 20:07,Winston Salem,Asheville,133.6,GYM,David Hartman
+10/28/2016 20:13,10/28/2016 22:00,Asheville,Topton,91.8,RESTAURANT,Alexandra Lewis
+10/29/2016 15:22,10/29/2016 17:05,Topton,Hayesville,40.7,OTHERS,Michael Mckinney
+10/29/2016 17:13,10/29/2016 19:19,Hayesville,Topton,75.7,RESTAURANT,Erika Brown
+10/30/2016 7:49,10/30/2016 8:30,Topton,Bryson City,29.8,BAR,Lance Chan
+10/30/2016 9:07,10/30/2016 10:09,Bryson City,Bryson City,16.3,SHOPPING,Sarah Peck
+10/30/2016 10:11,10/30/2016 10:38,Bryson City,Bryson City,6.5,PLAY ARENA,Michelle Day
+10/30/2016 10:51,10/30/2016 11:21,Bryson City,Bryson City,6.3,RESTAURANT,Brendan Rivera
+10/30/2016 12:24,10/30/2016 12:35,Bryson City,Almond,6.6,BAR,Patricia Marshall
+10/30/2016 12:58,10/30/2016 13:18,Almond,Bryson City,15.2,GYM,Ryan Barnes
+10/30/2016 13:24,10/30/2016 14:37,Bryson City,Asheville,68.4,RESTAURANT,Heather Maxwell
+10/30/2016 15:22,10/30/2016 18:23,Asheville,Mebane,195.9,RESTAURANT,Elizabeth Gross
+10/30/2016 18:26,10/30/2016 19:39,Mebane,Cary,45.2,GYM,Richard Reid
+10/31/2016 18:11,10/31/2016 18:20,Cary,Morrisville,3.2,BAR,William Jennings
+10/31/2016 18:47,10/31/2016 19:16,Morrisville,Raleigh,10.3,OTHERS,Heather Mcguire
+10/31/2016 20:18,10/31/2016 20:44,Raleigh,Cary,13.1,RESTAURANT,John Peters
+10/31/2016 21:45,10/31/2016 22:10,Savon Height,Whitebridge,9.6,SHOPPING,Samantha Coleman
+11/1/2016 11:50,11/1/2016 12:27,Cary,Durham,16.5,SHOPPING,Maria Tran
+11/1/2016 16:29,11/1/2016 17:02,Durham,Cary,12.8,OTHERS,Lance Chan
+11/1/2016 17:35,11/1/2016 17:42,Whitebridge,Whitebridge,1.2,PLAY ARENA,Alexis Wang
+11/1/2016 19:14,11/1/2016 19:20,Whitebridge,Whitebridge,1.0,PLAY ARENA,Richard Reid
+11/1/2016 19:59,11/1/2016 20:12,Whitebridge,Whitebridge,4.1,OTHERS,George Thomas Jr.
+11/1/2016 20:41,11/1/2016 20:55,Whitebridge,Whitebridge,4.2,PLAY ARENA,Amber Young
+11/2/2016 15:10,11/2/2016 15:18,Whitebridge,Westpark Place,1.4,OTHERS,Paul Smith
+11/2/2016 15:45,11/2/2016 15:52,Westpark Place,Whitebridge,1.8,GYM,Tracy Hanna
+11/2/2016 16:46,11/2/2016 17:11,Cary,Morrisville,8.5,GYM,Erika Brown
+11/2/2016 17:34,11/2/2016 17:49,Morrisville,Morrisville,5.0,GYM,Kelly Torres
+11/2/2016 17:53,11/2/2016 18:00,Morrisville,Cary,3.8,BAR,Ryan Barnes
+11/3/2016 11:28,11/3/2016 11:34,Whitebridge,Hazelwood,2.5,OTHERS,Traci Braun
+11/3/2016 12:43,11/3/2016 12:49,Hazelwood,Whitebridge,2.4,GYM,Brendan Rivera
+11/3/2016 13:42,11/3/2016 13:47,Whitebridge,Westpark Place,1.4,OFFICE,Aaron Webb
+11/3/2016 14:13,11/3/2016 14:26,Westpark Place,Whitebridge,1.8,OFFICE,Courtney Jones
+11/3/2016 18:51,11/3/2016 19:08,Cary,Morrisville,3.1,GYM,Alexis Wang
+11/3/2016 22:46,11/3/2016 22:58,Morrisville,Cary,3.1,GYM,Alexis Wang
+11/4/2016 10:02,11/4/2016 10:18,Cary,Morrisville,7.9,GYM,John Medina
+11/4/2016 18:14,11/4/2016 18:21,San Jose,Santa Clara,3.8,GYM,Nicole Garrett
+11/4/2016 21:04,11/4/2016 21:20,Agnew,Cory,4.3,OTHERS,Paul Smith
+11/4/2016 22:12,11/4/2016 22:25,Cory,Agnew,3.9,GYM,Richard Reid
+11/5/2016 8:34,11/5/2016 8:43,Agnew,Renaissance,2.2,BAR,David Rodriguez
+11/5/2016 17:29,11/5/2016 17:40,Renaissance,Agnew,2.8,PLAY ARENA,Jeremy Price
+11/5/2016 19:20,11/5/2016 19:28,Agnew,Agnew,2.2,SHOPPING,William Jennings
+11/6/2016 10:50,11/6/2016 11:04,Agnew,Renaissance,2.4,OTHERS,Nancy Brennan
+11/6/2016 16:05,11/6/2016 16:22,Renaissance,Agnew,2.8,BAR,Richard Reid
+11/6/2016 16:27,11/6/2016 17:28,Santa Clara,Berkeley,43.9,SHOPPING,Chad Davis
+11/6/2016 19:04,11/6/2016 19:12,Downtown,West Berkeley,1.8,OFFICE,Aaron Webb
+11/6/2016 20:06,11/6/2016 20:21,West Berkeley,Central,3.3,OFFICE,Courtney Jones
+11/7/2016 12:28,11/7/2016 12:57,Berkeley,San Francisco,11.8,RESTAURANT,Paul Smith
+11/7/2016 19:17,11/7/2016 19:57,San Francisco,Berkeley,13.2,OFFICE,Erika Brown
+11/8/2016 10:29,11/8/2016 10:57,Berkeley,San Francisco,12.2,OFFICE,Heather Maxwell
+11/8/2016 12:16,11/8/2016 12:49,San Francisco,Berkeley,11.3,SHOPPING,William Jennings
+11/8/2016 13:41,11/8/2016 14:01,Berkeley,Emeryville,3.6,GYM,Nancy Brennan
+11/8/2016 16:21,11/8/2016 16:34,Emeryville,Berkeley,3.0,PLAY ARENA,Lynn Elliott
+11/9/2016 13:08,11/9/2016 13:41,Berkeley,San Francisco,11.4,RESTAURANT,Chad Davis
+11/9/2016 15:58,11/9/2016 16:04,NOMA,Downtown,0.9,BAR,George Thomas Jr.
+11/9/2016 17:31,11/9/2016 18:03,Downtown,Sunnyside,6.2,GYM,Traci Braun
+11/9/2016 18:09,11/9/2016 18:14,Sunnyside,Ingleside,0.7,OTHERS,Erika Brown
+11/9/2016 18:21,11/9/2016 18:35,Ingleside,Potrero Flats,5.5,OFFICE,Chad Davis
+11/9/2016 18:40,11/9/2016 19:17,San Francisco,Oakland,12.7,SHOPPING,Rose Cruz
+11/9/2016 20:52,11/9/2016 21:02,Oakland,Berkeley,2.6,OFFICE,Cynthia Campbell
+11/9/2016 21:56,11/9/2016 22:02,Central,Central,1.1,OFFICE,Tracy Hanna
+11/10/2016 9:46,11/10/2016 10:15,Berkeley,San Francisco,12.6,PLAY ARENA,David Whitaker
+11/10/2016 10:20,11/10/2016 10:31,Tenderloin,SOMISSPO,1.2,RESTAURANT,Tracy Hanna
+11/10/2016 14:57,11/10/2016 15:07,SOMISSPO,Tenderloin,1.1,OTHERS,Michael Mckinney
+11/10/2016 15:17,11/10/2016 15:22,San Francisco,Oakland,9.9,OFFICE,Rachel Williams
+11/10/2016 15:30,11/10/2016 15:53,Oakland,Berkeley,6.0,OTHERS,Paul Smith
+11/10/2016 19:18,11/10/2016 19:21,West Berkeley,Central,0.8,RESTAURANT,Alexandria Barrett
+11/11/2016 9:35,11/11/2016 10:23,Berkeley,Menlo Park,45.9,BAR,Matthew Russell
+11/11/2016 12:58,11/11/2016 13:13,Menlo Park,Palo Alto,4.0,OFFICE,Amber Young
+11/11/2016 14:20,11/11/2016 14:32,Palo Alto,Menlo Park,2.5,GYM,Nancy Brennan
+11/11/2016 14:39,11/11/2016 15:46,Menlo Park,Berkeley,36.6,GYM,Nancy Brennan
+11/11/2016 18:30,11/11/2016 18:43,Central,College Avenue,2.9,RESTAURANT,Michael Mckinney
+11/11/2016 21:08,11/11/2016 21:18,College Avenue,Central,2.6,OFFICE,Erika Brown
+11/12/2016 10:32,11/12/2016 10:52,Central,South,2.3,PLAY ARENA,Tracy Hanna
+11/12/2016 10:55,11/12/2016 11:25,South,Downtown,6.4,SHOPPING,Mark Rodriguez DDS
+11/12/2016 13:07,11/12/2016 13:15,Downtown,Central,1.4,RESTAURANT,David Patel
+11/12/2016 13:46,11/12/2016 13:50,Central,West Berkeley,0.6,PLAY ARENA,Patricia Marshall
+11/12/2016 14:22,11/12/2016 14:53,West Berkeley,South,5.9,GYM,Kelly Torres
+11/12/2016 15:14,11/12/2016 15:21,South,Southwest Berkeley,0.8,OTHERS,George Thomas Jr.
+11/12/2016 15:25,11/12/2016 15:36,Berkeley,Emeryville,1.3,OFFICE,Heather Mcguire
+11/12/2016 15:40,11/12/2016 15:59,Emeryville,Berkeley,3.7,BAR,Troy Stewart
+11/13/2016 8:54,11/13/2016 9:02,Central,Central,2.3,SHOPPING,Jeremy Price
+11/13/2016 9:27,11/13/2016 9:53,Central,Central,2.6,OTHERS,Kylie Gordon
+11/13/2016 10:31,11/13/2016 10:37,Central,Southside,1.9,RESTAURANT,Heather Mcguire
+11/13/2016 11:04,11/13/2016 11:16,Southside,West Berkeley,2.1,OFFICE,Alexis Barry
+11/13/2016 12:22,11/13/2016 12:51,West Berkeley,Southside,4.0,PLAY ARENA,Heather Mcguire
+11/13/2016 13:05,11/13/2016 13:11,Southside,South Berkeley,0.9,PLAY ARENA,David Hartman
+11/13/2016 13:14,11/13/2016 13:18,South Berkeley,Southside,0.9,OFFICE,George Thomas Jr.
+11/13/2016 14:35,11/13/2016 14:46,Southside,Central,2.4,OFFICE,David Hartman
+11/13/2016 15:14,11/13/2016 15:24,Central,Southside,1.9,OFFICE,Amber Young
+11/13/2016 15:47,11/13/2016 15:59,Southside,Central,1.9,RESTAURANT,Alexandria Barrett
+11/14/2016 11:24,11/14/2016 12:13,Berkeley,Mountain View,44.6,RESTAURANT,Alexis Barry
+11/14/2016 13:40,11/14/2016 14:33,Mountain View,Berkeley,43.6,OTHERS,Erika Brown
+11/14/2016 15:27,11/14/2016 15:36,Berkeley,Emeryville,2.5,RESTAURANT,Alexandra Lewis
+11/14/2016 20:19,11/14/2016 20:30,Emeryville,Berkeley,3.7,PLAY ARENA,Lynn Elliott
+11/15/2016 13:59,11/15/2016 14:06,Berkeley,Oakland,5.1,RESTAURANT,Troy Stewart
+11/15/2016 14:09,11/15/2016 14:26,Oakland,San Francisco,9.7,OFFICE,Wesley Wilson
+11/15/2016 20:44,11/15/2016 21:00,San Francisco,Berkeley,11.8,RESTAURANT,Paul Smith
+11/16/2016 20:21,11/16/2016 20:27,Berkeley,El Cerrito,2.3,GYM,Samantha Coleman
+11/16/2016 22:52,11/16/2016 23:02,El Cerrito,Berkeley,3.1,OFFICE,Margaret Brock
+11/17/2016 10:13,11/17/2016 10:44,Berkeley,Oakland,16.3,PLAY ARENA,Kelly Torres
+11/18/2016 20:09,11/18/2016 20:19,Cary,Morrisville,3.1,SHOPPING,Samantha Coleman
+11/18/2016 21:23,11/18/2016 21:34,Morrisville,Cary,5.2,BAR,Sophia Hernandez
+11/18/2016 21:56,11/18/2016 22:21,Krendle Woods,Whitebridge,6.1,SHOPPING,Rachel Williams
+11/19/2016 13:51,11/19/2016 14:10,Cary,Durham,10.3,OTHERS,Courtney Jones
+11/19/2016 14:30,11/19/2016 14:51,Durham,Cary,10.5,OTHERS,George Thomas Jr.
+11/19/2016 16:01,11/19/2016 16:06,Cary,Cary,1.5,OTHERS,Chad Davis
+11/19/2016 16:27,11/19/2016 16:41,Cary,Cary,1.8,PLAY ARENA,Paul Smith
+11/19/2016 17:41,11/19/2016 17:54,Cary,Apex,5.4,RESTAURANT,William Jennings
+11/19/2016 21:14,11/19/2016 21:35,Apex,Cary,5.4,OFFICE,Margaret Brock
+11/20/2016 10:27,11/20/2016 11:32,Cary,Cary,39.2,OFFICE,Rose Cruz
+11/20/2016 11:58,11/20/2016 12:28,Cary,Cary,6.4,SHOPPING,Heather Maxwell
+11/20/2016 14:58,11/20/2016 15:07,Cary,Cary,2.7,PLAY ARENA,Rose Cruz
+11/20/2016 17:45,11/20/2016 18:37,Cary,Cary,18.5,PLAY ARENA,Aaron Webb
+11/21/2016 13:37,11/21/2016 13:49,Cary,Cary,2.5,OTHERS,Heather Mcguire
+11/21/2016 14:34,11/21/2016 14:44,Cary,Cary,2.1,GYM,William Jennings
+11/21/2016 17:50,11/21/2016 18:04,Cary,Unknown Location,6.7,RESTAURANT,Chad Davis
+11/21/2016 18:18,11/21/2016 18:27,Unknown Location,Morrisville,3.5,SHOPPING,Paul Smith
+11/21/2016 18:43,11/21/2016 18:51,Morrisville,Cary,3.4,OTHERS,Samantha Coleman
+11/22/2016 15:12,11/22/2016 15:27,Cary,Cary,5.5,BAR,John Medina
+11/22/2016 15:31,11/22/2016 15:44,Cary,Cary,4.1,OTHERS,Troy Stewart
+11/22/2016 15:51,11/22/2016 16:43,Cary,Cary,12.7,BAR,George Thomas Jr.
+11/22/2016 18:18,11/22/2016 18:28,Cary,Morrisville,3.0,RESTAURANT,Alexis Wang
+11/22/2016 21:02,11/22/2016 21:14,Morrisville,Cary,3.5,BAR,Richard Reid
+11/23/2016 15:34,11/23/2016 15:50,Cary,Cary,5.9,OTHERS,Nicole Garrett
+11/23/2016 16:18,11/23/2016 16:29,Cary,Cary,1.9,PLAY ARENA,Amber Young
+11/23/2016 16:49,11/23/2016 17:00,Cary,Cary,3.3,GYM,Kylie Gordon
+11/23/2016 18:37,11/23/2016 18:47,Cary,Cary,1.3,OFFICE,Michael Mckinney
+11/25/2016 11:47,11/25/2016 12:04,Cary,Durham,10.3,SHOPPING,Nicole Garrett
+11/25/2016 13:13,11/25/2016 13:31,Durham,Cary,11.1,GYM,William Jennings
+11/26/2016 15:54,11/26/2016 15:59,Cary,Cary,1.4,GYM,Troy Stewart
+11/26/2016 17:00,11/26/2016 17:12,Cary,Apex,5.1,OFFICE,Kelly Torres
+11/26/2016 17:36,11/26/2016 17:56,Apex,Holly Springs,9.0,PLAY ARENA,Heather Maxwell
+11/26/2016 18:29,11/26/2016 19:04,Holly Springs,Cary,13.3,BAR,Nancy Brennan
+11/26/2016 19:47,11/26/2016 19:54,Cary,Cary,2.5,SHOPPING,Tracy Hanna
+11/27/2016 15:59,11/27/2016 16:06,Cary,Morrisville,3.3,RESTAURANT,Wesley Wilson
+11/27/2016 18:55,11/27/2016 19:09,Morrisville,Cary,2.9,OFFICE,Kylie Gordon
+11/30/2016 11:03,11/30/2016 11:34,Cary,Raleigh,8.5,OTHERS,David Rodriguez
+11/30/2016 11:53,11/30/2016 12:35,Raleigh,Morrisville,6.7,GYM,Richard Reid
+11/30/2016 12:43,11/30/2016 12:53,Morrisville,Cary,3.1,PLAY ARENA,David Hartman
+12/1/2016 7:44,12/1/2016 7:59,Cary,Cary,5.5,SHOPPING,Alexis Wang
+12/1/2016 8:37,12/1/2016 8:53,Cary,Cary,5.5,SHOPPING,Erika Brown
+12/1/2016 18:00,12/1/2016 18:12,Cary,Morrisville,2.9,BAR,Wesley Wilson
+12/1/2016 20:36,12/1/2016 20:46,Morrisville,Cary,2.9,GYM,Erika Brown
+12/2/2016 12:12,12/2/2016 12:23,Cary,Apex,5.1,RESTAURANT,David Whitaker
+12/2/2016 13:07,12/2/2016 13:22,Apex,Cary,5.3,SHOPPING,Alexis Wang
+12/2/2016 20:41,12/2/2016 20:48,Cary,Morrisville,3.3,GYM,Nancy Brennan
+12/2/2016 22:59,12/2/2016 23:07,Morrisville,Cary,3.0,SHOPPING,Alexis Wang
+12/3/2016 18:35,12/3/2016 18:56,Cary,Wake Co.,6.6,OFFICE,Erika Brown
+12/3/2016 19:08,12/3/2016 19:15,Wake Co.,Morrisville,1.8,OTHERS,Nicole Garrett
+12/3/2016 20:31,12/3/2016 20:41,Morrisville,Cary,3.0,SHOPPING,Paul Smith
+12/4/2016 18:56,12/4/2016 19:03,Cary,Morrisville,2.9,RESTAURANT,Michael Mckinney
+12/4/2016 20:23,12/4/2016 20:34,Morrisville,Cary,3.4,RESTAURANT,Amber Young
+12/5/2016 18:04,12/5/2016 18:17,Cary,Cary,4.1,SHOPPING,Samantha Coleman
+12/5/2016 19:22,12/5/2016 19:37,Cary,Cary,3.8,OTHERS,Steven Jones
+12/7/2016 12:03,12/7/2016 12:32,Cary,Cary,6.6,GYM,Paul Smith
+12/7/2016 12:35,12/7/2016 12:46,Cary,Cary,4.0,OTHERS,William Jennings
+12/7/2016 19:53,12/7/2016 20:13,Cary,Cary,7.0,BAR,Kelly Torres
+12/7/2016 21:13,12/7/2016 21:50,Cary,Cary,6.9,RESTAURANT,John Peters
+12/8/2016 14:19,12/8/2016 14:32,Cary,Cary,3.4,PLAY ARENA,Troy Stewart
+12/8/2016 14:53,12/8/2016 15:02,Cary,Cary,3.4,OFFICE,George Thomas Jr.
+12/8/2016 19:22,12/8/2016 19:27,Cary,Cary,2.0,PLAY ARENA,Heather Maxwell
+12/8/2016 21:26,12/8/2016 21:31,Cary,Cary,2.0,BAR,Brendan Rivera
+12/9/2016 12:09,12/9/2016 12:24,Cary,Apex,5.1,BAR,John Medina
+12/9/2016 13:15,12/9/2016 13:43,Apex,Cary,8.8,RESTAURANT,David Whitaker
+12/9/2016 20:11,12/9/2016 20:34,Cary,Cary,5.6,GYM,Heather Mcguire
+12/9/2016 22:03,12/9/2016 22:57,Cary,Cary,18.9,OFFICE,Ryan Barnes
+12/10/2016 12:43,12/10/2016 13:16,Cary,Fuquay-Varina,15.6,OFFICE,Rose Cruz
+12/10/2016 14:42,12/10/2016 15:18,Fuquay-Varina,Cary,15.6,GYM,Kelly Torres
+12/10/2016 18:17,12/10/2016 18:27,Cary,Morrisville,3.0,PLAY ARENA,Paul Smith
+12/10/2016 22:09,12/10/2016 22:21,Morrisville,Cary,3.1,OTHERS,Jeremy Price
+12/11/2016 16:06,12/11/2016 16:16,Cary,Morrisville,3.0,BAR,William Walker
+12/11/2016 19:05,12/11/2016 19:15,Morrisville,Cary,4.8,SHOPPING,Nancy Brennan
+12/11/2016 21:48,12/11/2016 21:56,Cary,Cary,2.1,GYM,Margaret Brock
+12/12/2016 13:22,12/12/2016 13:32,Cary,Cary,3.1,SHOPPING,Alexis Wang
+12/12/2016 13:36,12/12/2016 13:51,Cary,Apex,4.4,PLAY ARENA,Courtney Jones
+12/12/2016 14:26,12/12/2016 14:39,Apex,Cary,4.7,SHOPPING,Tracy Hanna
+12/12/2016 17:51,12/12/2016 18:01,Cary,Morrisville,3.0,OTHERS,Tracy Hanna
+12/12/2016 20:48,12/12/2016 20:57,Morrisville,Cary,3.0,PLAY ARENA,George Thomas Jr.
+12/13/2016 18:19,12/13/2016 18:29,Cary,Cary,4.2,OFFICE,Patricia Marshall
+12/13/2016 20:20,12/13/2016 20:29,Cary,Cary,4.1,BAR,Alexis Wang
+12/14/2016 16:52,12/14/2016 17:10,Cary,Cary,3.4,SHOPPING,Wesley Wilson
+12/14/2016 17:22,12/14/2016 17:34,Cary,Cary,3.3,OTHERS,David Hartman
+12/14/2016 17:50,12/14/2016 18:00,Cary,Morrisville,3.0,BAR,Heather Mcguire
+12/14/2016 20:24,12/14/2016 20:40,Morrisville,Cary,3.1,OFFICE,David Rodriguez
+12/15/2016 14:20,12/15/2016 14:54,Cary,Morrisville,10.6,BAR,Matthew Russell
+12/17/2016 15:38,12/17/2016 16:12,Unknown Location,Unknown Location,4.8,PLAY ARENA,Chad Davis
+12/17/2016 17:19,12/17/2016 17:59,Unknown Location,Unknown Location,5.3,RESTAURANT,Erika Brown
+12/18/2016 13:03,12/18/2016 13:41,Unknown Location,Unknown Location,4.9,BAR,William Walker
+12/18/2016 16:38,12/18/2016 17:25,Unknown Location,Unknown Location,10.2,RESTAURANT,John Peters
+12/18/2016 20:35,12/18/2016 21:04,Unknown Location,Unknown Location,9.2,GYM,Steven Jones
+12/19/2016 9:08,12/19/2016 9:36,Unknown Location,Islamabad,7.7,RESTAURANT,Steven Jones
+12/19/2016 10:15,12/19/2016 10:34,Islamabad,Rawalpindi,5.9,GYM,Wesley Wilson
+12/19/2016 13:04,12/19/2016 13:08,Rawalpindi,Unknown Location,0.7,RESTAURANT,Elizabeth Gross
+12/19/2016 13:24,12/19/2016 13:35,Unknown Location,Unknown Location,1.3,BAR,David Patel
+12/19/2016 14:07,12/19/2016 14:15,Unknown Location,Unknown Location,2.5,OFFICE,Heather Mcguire
+12/19/2016 14:18,12/19/2016 14:32,Unknown Location,Unknown Location,5.3,RESTAURANT,Troy Stewart
+12/19/2016 14:37,12/19/2016 14:50,Unknown Location,Unknown Location,5.4,BAR,David Whitaker
+12/19/2016 15:09,12/19/2016 15:38,Unknown Location,Rawalpindi,10.2,GYM,Sarah Peck
+12/19/2016 16:50,12/19/2016 17:09,Rawalpindi,Islamabad,7.2,PLAY ARENA,Heather Mcguire
+12/19/2016 19:05,12/19/2016 19:17,Islamabad,Unknown Location,2.2,PLAY ARENA,Nancy Brennan
+12/19/2016 19:55,12/19/2016 20:30,Unknown Location,Unknown Location,11.0,OTHERS,Jeremy Price
+12/20/2016 8:49,12/20/2016 9:24,Unknown Location,Rawalpindi,12.0,RESTAURANT,Sophia Hernandez
+12/20/2016 10:30,12/20/2016 10:48,Rawalpindi,Rawalpindi,3.3,GYM,Brendan Rivera
+12/20/2016 11:30,12/20/2016 12:17,Rawalpindi,Unknown Location,19.4,SHOPPING,Lance Chan
+12/20/2016 13:14,12/20/2016 13:20,Unknown Location,Unknown Location,1.7,BAR,Wesley Wilson
+12/20/2016 13:54,12/20/2016 14:17,Unknown Location,Islamabad,5.7,RESTAURANT,Heather Maxwell
+12/20/2016 16:14,12/20/2016 16:24,Islamabad,Islamabad,1.8,OTHERS,Chad Davis
+12/20/2016 16:56,12/20/2016 17:07,Islamabad,Islamabad,1.4,BAR,Heather Maxwell
+12/20/2016 18:47,12/20/2016 19:21,Islamabad,Unknown Location,10.3,OFFICE,Alexandra Lewis
+12/21/2016 7:42,12/21/2016 8:10,Unknown Location,Unknown Location,11.5,OFFICE,Heather Mcguire
+12/21/2016 10:14,12/21/2016 10:30,Unknown Location,Islamabad,4.9,SHOPPING,Rose Cruz
+12/21/2016 11:35,12/21/2016 11:49,Islamabad,Unknown Location,3.5,GYM,Heather Mcguire
+12/21/2016 12:51,12/21/2016 13:33,Unknown Location,Unknown Location,16.2,SHOPPING,Michael Mckinney
+12/21/2016 15:38,12/21/2016 15:49,Unknown Location,Unknown Location,2.0,BAR,Nicole Garrett
+12/21/2016 15:55,12/21/2016 16:05,Unknown Location,Islamabad,2.1,PLAY ARENA,Tracy Hanna
+12/21/2016 17:45,12/21/2016 17:54,Islamabad,Islamabad,2.1,OTHERS,Alexis Wang
+12/21/2016 17:59,12/21/2016 18:31,Islamabad,Unknown Location,7.2,BAR,John Peters
+12/21/2016 19:49,12/21/2016 20:35,Unknown Location,Rawalpindi,12.0,PLAY ARENA,Paul Smith
+12/21/2016 20:56,12/21/2016 23:42,Rawalpindi,Unknown Location,103.0,GYM,George Thomas Jr.
+12/22/2016 15:40,12/22/2016 16:38,Unknown Location,Unknown Location,32.3,OFFICE,Tracy Hanna
+12/22/2016 17:04,12/22/2016 17:20,Unknown Location,Unknown Location,5.3,BAR,Michelle Day
+12/22/2016 17:27,12/22/2016 17:53,Unknown Location,Unknown Location,11.6,OFFICE,Michael Mckinney
+12/22/2016 17:56,12/22/2016 18:29,Unknown Location,Unknown Location,23.2,OTHERS,Matthew Russell
+12/22/2016 18:31,12/22/2016 18:37,Unknown Location,Unknown Location,3.2,SHOPPING,Alexis Barry
+12/22/2016 18:38,12/22/2016 18:47,Unknown Location,Unknown Location,12.3,SHOPPING,Sophia Hernandez
+12/22/2016 19:04,12/22/2016 19:50,Unknown Location,Lahore,14.0,GYM,Aaron Webb
+12/22/2016 21:41,12/22/2016 21:53,Lahore,Lahore,2.1,PLAY ARENA,Patricia Marshall
+12/22/2016 23:27,12/22/2016 23:32,Lahore,Lahore,2.1,OTHERS,Margaret Brock
+12/23/2016 9:21,12/23/2016 9:41,Lahore,Lahore,3.0,OFFICE,Elizabeth Gross
+12/23/2016 11:33,12/23/2016 11:58,Lahore,Unknown Location,6.2,SHOPPING,William Walker
+12/23/2016 14:15,12/23/2016 15:25,Unknown Location,Unknown Location,9.6,SHOPPING,Cynthia Campbell
+12/23/2016 16:23,12/23/2016 16:34,Unknown Location,Unknown Location,1.3,SHOPPING,Lance Chan
+12/23/2016 17:34,12/23/2016 18:27,Unknown Location,Lahore,7.1,PLAY ARENA,Troy Stewart
+12/24/2016 7:43,12/24/2016 8:04,Lahore,Unknown Location,6.3,GYM,Lance Chan
+12/24/2016 9:19,12/24/2016 9:55,Unknown Location,Lahore,10.7,OFFICE,Matthew Russell
+12/24/2016 10:34,12/24/2016 10:53,Lahore,Lahore,5.3,BAR,Brendan Rivera
+12/24/2016 12:51,12/24/2016 12:53,Lahore,Lahore,1.6,RESTAURANT,Wesley Wilson
+12/24/2016 13:08,12/24/2016 13:29,Lahore,Lahore,3.6,OTHERS,Richard Reid
+12/24/2016 17:12,12/24/2016 17:27,Lahore,Lahore,1.7,GYM,Brendan Rivera
+12/24/2016 19:12,12/24/2016 19:27,Lahore,Lahore,2.9,PLAY ARENA,Wesley Wilson
+12/24/2016 22:04,12/24/2016 22:09,Lahore,Lahore,0.6,OFFICE,John Peters
+12/25/2016 0:10,12/25/2016 0:14,Lahore,Lahore,0.6,OTHERS,Amber Young
+12/25/2016 19:15,12/25/2016 19:26,Lahore,Lahore,2.3,PLAY ARENA,Elizabeth Gross
+12/25/2016 21:58,12/25/2016 22:04,Lahore,Lahore,2.3,BAR,Rose Cruz
+12/26/2016 8:30,12/26/2016 8:41,Lahore,Lahore,3.2,PLAY ARENA,David Whitaker
+12/26/2016 9:05,12/26/2016 9:19,Lahore,Lahore,6.2,SHOPPING,Margaret Brock
+12/26/2016 10:15,12/26/2016 10:36,Lahore,Lahore,7.7,GYM,Wesley Wilson
+12/26/2016 11:29,12/26/2016 11:42,Lahore,Lahore,3.8,RESTAURANT,Alexis Wang
+12/26/2016 13:09,12/26/2016 13:43,Lahore,Unknown Location,7.9,OTHERS,Kylie Gordon
+12/27/2016 7:02,12/27/2016 7:14,Kar?chi,Kar?chi,4.9,OFFICE,David Rodriguez
+12/27/2016 8:37,12/27/2016 8:59,Kar?chi,Kar?chi,5.0,RESTAURANT,Ryan Barnes
+12/27/2016 12:53,12/27/2016 12:57,Kar?chi,Kar?chi,0.6,OTHERS,Kelly Torres
+12/27/2016 14:49,12/27/2016 15:03,Kar?chi,Unknown Location,3.1,SHOPPING,Nicole Garrett
+12/27/2016 16:34,12/27/2016 16:58,Unknown Location,Kar?chi,7.9,OTHERS,Kylie Gordon
+12/27/2016 19:19,12/27/2016 19:50,Kar?chi,Kar?chi,5.5,GYM,Nicole Garrett
+12/28/2016 8:34,12/28/2016 9:06,Kar?chi,Unknown Location,10.3,SHOPPING,Sophia Hernandez
+12/28/2016 11:42,12/28/2016 12:12,Unknown Location,Kar?chi,10.4,BAR,Courtney Jones
+12/28/2016 13:53,12/28/2016 14:01,Kar?chi,Kar?chi,2.0,RESTAURANT,David Hartman
+12/28/2016 15:04,12/28/2016 15:39,Kar?chi,Unknown Location,8.5,BAR,Wesley Wilson
+12/28/2016 17:02,12/28/2016 17:16,Unknown Location,Kar?chi,4.4,BAR,Michael Mckinney
+12/28/2016 18:33,12/28/2016 18:56,Kar?chi,Kar?chi,3.8,OTHERS,John Peters
+12/28/2016 22:44,12/28/2016 23:18,Kar?chi,Kar?chi,5.1,SHOPPING,Heather Mcguire
+12/29/2016 0:49,12/29/2016 1:06,Kar?chi,Kar?chi,3.8,OFFICE,Samantha Coleman
+12/29/2016 9:44,12/29/2016 10:07,Kar?chi,Unknown Location,11.6,GYM,Sophia Hernandez
+12/29/2016 11:28,12/29/2016 12:00,Unknown Location,Kar?chi,11.9,PLAY ARENA,George Thomas Jr.
+12/29/2016 12:25,12/29/2016 12:33,Kar?chi,Kar?chi,1.4,OFFICE,Mark Rodriguez DDS
+12/29/2016 13:17,12/29/2016 13:24,Kar?chi,Kar?chi,1.1,BAR,Erika Brown
+12/29/2016 13:56,12/29/2016 14:11,Kar?chi,Kar?chi,4.1,PLAY ARENA,Kelly Torres
+12/29/2016 14:42,12/29/2016 14:58,Kar?chi,Kar?chi,6.1,RESTAURANT,Margaret Brock
+12/29/2016 15:05,12/29/2016 15:16,Kar?chi,Kar?chi,1.3,GYM,Sarah Peck
+12/29/2016 18:59,12/29/2016 19:14,Kar?chi,Unknown Location,3.0,BAR,Maria Tran
+12/29/2016 19:50,12/29/2016 20:10,Unknown Location,Kar?chi,4.1,GYM,Michael Mckinney
+12/29/2016 20:15,12/29/2016 20:45,Kar?chi,Kar?chi,7.2,PLAY ARENA,Ryan Barnes
+12/29/2016 20:53,12/29/2016 21:42,Kar?chi,Unknown Location,6.4,BAR,John Medina
+12/29/2016 23:14,12/29/2016 23:47,Unknown Location,Kar?chi,12.9,SHOPPING,Nancy Brennan
+12/30/2016 10:15,12/30/2016 10:33,Kar?chi,Kar?chi,2.8,RESTAURANT,Alexis Wang
+12/30/2016 11:31,12/30/2016 11:56,Kar?chi,Kar?chi,2.9,SHOPPING,Lynn Elliott
+12/30/2016 15:41,12/30/2016 16:03,Kar?chi,Kar?chi,4.6,BAR,Kelly Torres
+12/30/2016 16:45,12/30/2016 17:08,Kar?chi,Kar?chi,4.6,OTHERS,Sophia Hernandez
+12/30/2016 23:06,12/30/2016 23:10,Kar?chi,Kar?chi,0.8,RESTAURANT,William Jennings
+12/31/2016 1:07,12/31/2016 1:14,Kar?chi,Kar?chi,0.7,RESTAURANT,Amber Young
+12/31/2016 13:24,12/31/2016 13:42,Kar?chi,Unknown Location,3.9,SHOPPING,Rose Cruz
+12/31/2016 15:03,12/31/2016 15:38,Unknown Location,Unknown Location,16.2,SHOPPING,Mark Rodriguez DDS
+12/31/2016 21:32,12/31/2016 21:50,Katunayake,Gampaha,6.4,RESTAURANT,William Walker
+12/31/2016 22:08,12/31/2016 23:51,Gampaha,Ilukwatta,48.2,BAR,Steven Jones
