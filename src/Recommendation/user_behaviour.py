@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from Recommendation.utils import get_interest, read_dataset, get_interest_index, interest_finder, see_user_top_interests
 from constants import top_user_interests_limit, OTHERS_REGEX
+pd.set_option('mode.chained_assignment', None)
 
 
 def generate_complete_user_interest_dataset(ratings, interests):
