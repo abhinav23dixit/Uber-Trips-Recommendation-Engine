@@ -25,7 +25,7 @@ def load_datasets():
     ratings = read_dataset(ratings_dataset_path)
     interests = read_dataset(interests_dataset_path)
     users = read_dataset(users_dataset_path)
-    users_to_user_id_map = dict(zip(users['USER*'], users['USER_ID*']))
+    users_to_user_id_map = dict(zip(users['USER*'].str.lower(), users['USER_ID*']))
     user_id_to_users_map = dict(zip(users['USER_ID*'], users['USER*']))
     interest_id_inv_mapper = dict(zip(interests['INTEREST_ID*'], interests['INTEREST*']))
     rating_interest_df = generate_complete_user_interest_dataset(ratings, interests)
@@ -50,8 +50,8 @@ def initialize_models():
 
 
 def get_user_recommendations(user_name: str):
-    if user_name in users_to_user_id_map:
-        user_id = users_to_user_id_map[user_name]
+    if user_name.lower() in users_to_user_id_map:
+        user_id = users_to_user_id_map[user_name.lower()]
         cf_recommendations = get_cf_user_recommendations(user_id, model_details, interest_id_inv_mapper)
         top_rated_interests = get_highly_rated_interests(user_id, rating_interest_df)
         top_rated_activities = get_highly_rated_activities(user_id, rating_interest_df)
