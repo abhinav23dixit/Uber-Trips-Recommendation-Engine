@@ -7,7 +7,7 @@ import implicit
 from scipy.sparse import save_npz
 from sklearn.neighbors import NearestNeighbors
 from Recommendation.utils import get_interest, read_dataset, get_interest_index, interest_finder, see_user_top_interests
-
+from constants import OTHERS_REGEX
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
@@ -56,7 +56,7 @@ def create_X(df: pd.DataFrame):
     return X, user_mapper, interest_mapper, user_inv_mapper, interest_inv_mapper
 
 
-def find_similar_movies(interest, X, k, metric='cosine', show_distance=False):
+def find_similar_movies(interest, X, k, interest_mapper, interest_inv_mapper , metric='cosine',  show_distance=False):
     """
     Finds k-nearest neighbours for a given interest.
 
@@ -92,51 +92,47 @@ def use_alternating_least_squares(factors: int, X):
     return model
 
 
-if __name__ == '__main__':
-    ratings = read_dataset("Dataset/Rated User Interests.csv")
-    interests = read_dataset("Dataset/Interests Dataset.csv")
-    users = read_dataset("Dataset/Users Dataset.csv")
-
+def initialize_cf_model(ratings: pd.DataFrame, interests: pd.DataFrame):
     # interests mapper
     interest_to_id_mapper = dict(zip(interests['INTEREST*'], interests['INTEREST_ID*']))
     interest_id_inv_mapper = dict(zip(interests['INTEREST_ID*'], interests['INTEREST*']))
 
-    # users mapper
-    user_to_id_mapper = dict(zip(users['USER*'], users['USER_ID*']))
-    user_id_inv_mapper = dict(zip(users['USER_ID*'], users['USER*']))
-
-    data_analysis(ratings)
-
     X, user_mapper, interest_mapper, user_inv_mapper, interest_inv_mapper = create_X(ratings)
-
-    sparsity = X.count_nonzero() / (X.shape[0] * X.shape[1])
-    print(f"Matrix sparsity: {round(sparsity * 100, 2)}%")
-
     save_npz('Recommendation/user_interest_matrix.npz', X)
-
     model = use_alternating_least_squares(factors=24, X=X)
-
-    # generating item-item recommendation
-    # interest = 'BAR 6'
-    #
-    # interest_index = get_interest_index(interest, interest_mapper, interest_to_id_mapper, interests)
-    # related = model.similar_items(interest_index)
-    # for r in related:
-    #     recommended_title = get_interest(r[0], interest_inv_mapper, interest_id_inv_mapper)
-    #     if recommended_title != interest_finder(interest, interests):
-    #         print(recommended_title)
-
-    # generating user-item recommendation
-    user_id = 2
-    see_user_top_interests(ratings, interests, user_id)
     X_t = X.T.tocsr()
+    return {
+        "X": X,
+        "user_mapper": user_mapper,
+        "interest_mapper": interest_mapper,
+        "user_inv_mapper": user_inv_mapper,
+        "interest_inv_mapper": interest_inv_mapper,
+        "X_t": X_t,
+        "model": model
+    }
 
-    user_idx = user_mapper[user_id]
-    recommendations = model.recommend(user_idx, X_t)
 
+def get_cf_user_recommendations(user_id: int, model_details: dict, interest_id_inv_mapper):
+    user_idx = model_details['user_mapper'][user_id]
+    recommendations = model_details['model'].recommend(user_idx, model_details['X_t'])
+    reco_interests = []
     for r in recommendations:
-        recommended_interest = get_interest(r[0], interest_inv_mapper, interest_id_inv_mapper)
-        print(recommended_interest)
+        recommended_interest = get_interest(r[0], model_details['interest_inv_mapper'],
+                                            interest_id_inv_mapper)
+        if OTHERS_REGEX not in recommended_interest:
+            reco_interests.append(recommended_interest)
+    return reco_interests
+
+# Test this individual component here
+# if __name__ == '__main__':
+#     ratings = read_dataset("Dataset/Rated User Interests.csv")
+#     interests = read_dataset("Dataset/Interests Dataset.csv")
+#     users = read_dataset("Dataset/Users Dataset.csv")
+#     interest_id_inv_mapper = dict(zip(interests['INTEREST_ID*'], interests['INTEREST*']))
+#
+#     model_details = initialize_cf_model(ratings, interests)
+#     print(get_cf_user_recommendations(2, model_details, interest_id_inv_mapper))
+
 
 
 

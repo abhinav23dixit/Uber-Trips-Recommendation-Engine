@@ -1,8 +1,7 @@
 import numpy as np
 import pandas as pd
 from Recommendation.utils import get_interest, read_dataset, get_interest_index, interest_finder, see_user_top_interests
-
-OTHERS_REGEX = 'OTHERS'
+from constants import top_user_interests_limit, OTHERS_REGEX
 
 
 def generate_complete_user_interest_dataset(ratings, interests):
@@ -30,7 +29,7 @@ def get_rsorted_activities(activities: list):
     return rsorted_activties
 
 
-def get_highly_rated_interests(user_id: int, rated_df: pd.DataFrame, threshold: int = 3):
+def get_highly_rated_interests(user_id: int, rated_df: pd.DataFrame, threshold: int = top_user_interests_limit):
     user_ratings = rated_df[rated_df['USER_ID*'] == user_id]
     user_ratings = user_ratings.sort_values('RATING*', ascending=False)
     user_ratings['REDUNDANT_INTEREST_FLAG*'] = user_ratings['INTEREST*'].apply(lambda x: get_others_flag(x))
@@ -47,13 +46,13 @@ def get_highly_rated_activities(user_id: int, rated_df: pd.DataFrame):
     activities = user_ratings['ACTIVITY*'].to_list()
     return get_rsorted_activities(activities)
 
-
-if __name__ == '__main__':
-    ratings = read_dataset("Dataset/Rated User Interests.csv")
-    interests = read_dataset("Dataset/Interests Dataset.csv")
-    users = read_dataset("Dataset/Users Dataset.csv")
-
-    expanded_df = generate_complete_user_interest_dataset(ratings, interests)
-    filtered_df = expanded_df[expanded_df['USER_ID*'] == 3]
+# for independent testing
+# if __name__ == '__main__':
+#     ratings = read_dataset("Dataset/Rated User Interests.csv")
+#     interests = read_dataset("Dataset/Interests Dataset.csv")
+#     users = read_dataset("Dataset/Users Dataset.csv")
+#
+#     expanded_df = generate_complete_user_interest_dataset(ratings, interests)
+#     filtered_df = expanded_df[expanded_df['USER_ID*'] == 3]
     # print(get_highly_rated_interests(user_id=3, rated_df=expanded_df, threshold=3))
     # print(get_highly_rated_activities(user_id=3, rated_df=expanded_df))
