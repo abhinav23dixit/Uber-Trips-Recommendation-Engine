@@ -28,5 +28,4 @@ def see_user_top_interests(ratings: pd.DataFrame, interests: pd.DataFrame, user_
 
 def read_dataset(path: str):
     csv_df = pd.read_csv(path)
-    print(csv_df.head())
     return csv_df

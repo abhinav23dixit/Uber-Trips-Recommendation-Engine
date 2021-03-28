@@ -114,10 +114,6 @@ if __name__ == '__main__':
 
     save_npz('Recommendation/user_interest_matrix.npz', X)
 
-    # similar_interests = find_similar_movies(31, X, k=3)
-    # for i in similar_interests:
-    #     print(i)
-
     model = use_alternating_least_squares(factors=24, X=X)
 
     # generating item-item recommendation
@@ -137,7 +133,6 @@ if __name__ == '__main__':
 
     user_idx = user_mapper[user_id]
     recommendations = model.recommend(user_idx, X_t)
-    recommendations
 
     for r in recommendations:
         recommended_interest = get_interest(r[0], interest_inv_mapper, interest_id_inv_mapper)
