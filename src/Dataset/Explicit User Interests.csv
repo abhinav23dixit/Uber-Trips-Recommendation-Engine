@@ -1,0 +1,872 @@
+USER*,INTEREST*,RATING*
+Aaron Webb,BAR 5,1
+Aaron Webb,BAR 7,1
+Aaron Webb,GYM 3,1
+Aaron Webb,GYM 5,2
+Aaron Webb,GYM 6,2
+Aaron Webb,OFFICE 2,1
+Aaron Webb,OFFICE 4,3
+Aaron Webb,OFFICE 6,1
+Aaron Webb,OTHERS 6,2
+Aaron Webb,PLAY ARENA 6,2
+Aaron Webb,SHOPPING 3,1
+Aaron Webb,SHOPPING 4,1
+Aaron Webb,SHOPPING 5,2
+Aaron Webb,SHOPPING 7,1
+Alexandra Lewis,BAR 5,1
+Alexandra Lewis,BAR 6,1
+Alexandra Lewis,GYM 2,1
+Alexandra Lewis,OFFICE 3,1
+Alexandra Lewis,OFFICE 6,1
+Alexandra Lewis,OTHERS 3,2
+Alexandra Lewis,OTHERS 6,1
+Alexandra Lewis,PLAY ARENA 4,2
+Alexandra Lewis,PLAY ARENA 5,1
+Alexandra Lewis,PLAY ARENA 6,2
+Alexandra Lewis,RESTAURANT 3,2
+Alexandra Lewis,RESTAURANT 5,1
+Alexandra Lewis,RESTAURANT 7,1
+Alexandra Lewis,SHOPPING 0,1
+Alexandra Lewis,SHOPPING 4,1
+Alexandra Lewis,SHOPPING 6,1
+Alexandria Barrett,BAR 3,2
+Alexandria Barrett,BAR 5,2
+Alexandria Barrett,GYM 0,1
+Alexandria Barrett,GYM 3,1
+Alexandria Barrett,GYM 5,1
+Alexandria Barrett,GYM 6,1
+Alexandria Barrett,OTHERS 3,1
+Alexandria Barrett,OTHERS 4,2
+Alexandria Barrett,PLAY ARENA 4,1
+Alexandria Barrett,RESTAURANT 4,1
+Alexandria Barrett,RESTAURANT 5,2
+Alexandria Barrett,RESTAURANT 6,1
+Alexandria Barrett,SHOPPING 7,2
+Alexis Barry,BAR 4,1
+Alexis Barry,BAR 7,1
+Alexis Barry,GYM 0,1
+Alexis Barry,GYM 2,1
+Alexis Barry,OFFICE 0,1
+Alexis Barry,OFFICE 3,1
+Alexis Barry,OFFICE 5,1
+Alexis Barry,OTHERS 3,1
+Alexis Barry,OTHERS 6,1
+Alexis Barry,PLAY ARENA 6,1
+Alexis Barry,RESTAURANT 4,1
+Alexis Barry,RESTAURANT 5,2
+Alexis Barry,RESTAURANT 6,2
+Alexis Barry,SHOPPING 4,1
+Alexis Barry,SHOPPING 6,1
+Alexis Barry,SHOPPING 7,1
+Alexis Wang,BAR 5,1
+Alexis Wang,BAR 6,1
+Alexis Wang,GYM 3,1
+Alexis Wang,GYM 4,1
+Alexis Wang,GYM 6,3
+Alexis Wang,GYM 7,1
+Alexis Wang,OFFICE 4,2
+Alexis Wang,OTHERS 5,1
+Alexis Wang,OTHERS 7,2
+Alexis Wang,PLAY ARENA 5,4
+Alexis Wang,RESTAURANT 3,2
+Alexis Wang,RESTAURANT 5,1
+Alexis Wang,RESTAURANT 6,2
+Alexis Wang,SHOPPING 2,1
+Alexis Wang,SHOPPING 4,3
+Alexis Wang,SHOPPING 5,1
+Alexis Wang,SHOPPING 7,1
+Amber Young,BAR 0,1
+Amber Young,BAR 3,1
+Amber Young,BAR 5,1
+Amber Young,GYM 3,1
+Amber Young,OFFICE 4,2
+Amber Young,OFFICE 5,1
+Amber Young,OTHERS 0,1
+Amber Young,OTHERS 3,1
+Amber Young,OTHERS 4,1
+Amber Young,OTHERS 5,1
+Amber Young,OTHERS 6,1
+Amber Young,PLAY ARENA 4,1
+Amber Young,PLAY ARENA 5,1
+Amber Young,PLAY ARENA 6,1
+Amber Young,RESTAURANT 0,1
+Amber Young,RESTAURANT 3,1
+Amber Young,RESTAURANT 4,2
+Amber Young,RESTAURANT 5,2
+Amber Young,RESTAURANT 6,1
+Amber Young,RESTAURANT 7,1
+Amber Young,SHOPPING 3,1
+Brendan Rivera,BAR 3,1
+Brendan Rivera,BAR 5,2
+Brendan Rivera,BAR 7,1
+Brendan Rivera,GYM 0,1
+Brendan Rivera,GYM 3,2
+Brendan Rivera,GYM 4,4
+Brendan Rivera,GYM 5,2
+Brendan Rivera,OFFICE 4,1
+Brendan Rivera,OFFICE 6,1
+Brendan Rivera,OTHERS 4,1
+Brendan Rivera,OTHERS 6,1
+Brendan Rivera,PLAY ARENA 3,1
+Brendan Rivera,PLAY ARENA 6,1
+Brendan Rivera,RESTAURANT 3,2
+Brendan Rivera,SHOPPING 4,1
+Chad Davis,BAR 5,1
+Chad Davis,BAR 6,1
+Chad Davis,BAR 7,1
+Chad Davis,GYM 5,2
+Chad Davis,GYM 6,1
+Chad Davis,OFFICE 6,1
+Chad Davis,OTHERS 4,2
+Chad Davis,OTHERS 5,4
+Chad Davis,OTHERS 6,1
+Chad Davis,OTHERS 7,1
+Chad Davis,PLAY ARENA 5,2
+Chad Davis,PLAY ARENA 7,1
+Chad Davis,RESTAURANT 4,1
+Chad Davis,RESTAURANT 5,1
+Chad Davis,RESTAURANT 6,2
+Chad Davis,SHOPPING 5,1
+Chad Davis,SHOPPING 6,1
+Chad Davis,SHOPPING 7,1
+Courtney Jones,BAR 4,1
+Courtney Jones,BAR 5,1
+Courtney Jones,BAR 6,1
+Courtney Jones,BAR 7,1
+Courtney Jones,GYM 4,1
+Courtney Jones,GYM 6,1
+Courtney Jones,OFFICE 4,1
+Courtney Jones,OFFICE 5,1
+Courtney Jones,OFFICE 6,2
+Courtney Jones,OTHERS 3,1
+Courtney Jones,OTHERS 4,2
+Courtney Jones,OTHERS 6,2
+Courtney Jones,PLAY ARENA 4,1
+Courtney Jones,PLAY ARENA 5,1
+Courtney Jones,RESTAURANT 1,1
+Courtney Jones,RESTAURANT 4,2
+Courtney Jones,SHOPPING 3,1
+Cynthia Campbell,BAR 6,1
+Cynthia Campbell,BAR 7,1
+Cynthia Campbell,GYM 3,1
+Cynthia Campbell,GYM 5,2
+Cynthia Campbell,OFFICE 5,2
+Cynthia Campbell,OFFICE 7,1
+Cynthia Campbell,OTHERS 6,1
+Cynthia Campbell,PLAY ARENA 5,1
+Cynthia Campbell,PLAY ARENA 7,1
+Cynthia Campbell,RESTAURANT 3,1
+Cynthia Campbell,RESTAURANT 4,1
+Cynthia Campbell,SHOPPING 5,2
+David Hartman,BAR 5,1
+David Hartman,GYM 4,1
+David Hartman,GYM 6,1
+David Hartman,OFFICE 4,1
+David Hartman,OFFICE 6,1
+David Hartman,OTHERS 5,2
+David Hartman,PLAY ARENA 3,1
+David Hartman,PLAY ARENA 4,2
+David Hartman,PLAY ARENA 5,2
+David Hartman,RESTAURANT 4,1
+David Hartman,RESTAURANT 5,1
+David Hartman,RESTAURANT 6,1
+David Hartman,SHOPPING 4,3
+David Hartman,SHOPPING 5,1
+David Hartman,SHOPPING 6,2
+David Patel,BAR 3,1
+David Patel,BAR 4,3
+David Patel,BAR 7,2
+David Patel,GYM 4,1
+David Patel,GYM 5,1
+David Patel,OFFICE 3,1
+David Patel,OFFICE 5,1
+David Patel,OTHERS 2,1
+David Patel,OTHERS 4,1
+David Patel,OTHERS 6,1
+David Patel,PLAY ARENA 3,2
+David Patel,PLAY ARENA 5,1
+David Patel,PLAY ARENA 6,1
+David Patel,RESTAURANT 4,2
+David Patel,RESTAURANT 5,1
+David Patel,RESTAURANT 6,1
+David Patel,SHOPPING 4,1
+David Patel,SHOPPING 7,1
+David Rodriguez,BAR 0,1
+David Rodriguez,BAR 2,1
+David Rodriguez,GYM 5,1
+David Rodriguez,GYM 6,1
+David Rodriguez,OFFICE 2,1
+David Rodriguez,OFFICE 6,1
+David Rodriguez,OFFICE 7,1
+David Rodriguez,OTHERS 3,1
+David Rodriguez,PLAY ARENA 4,1
+David Rodriguez,PLAY ARENA 5,2
+David Rodriguez,PLAY ARENA 6,1
+David Rodriguez,RESTAURANT 0,1
+David Rodriguez,SHOPPING 3,1
+David Whitaker,BAR 3,1
+David Whitaker,BAR 4,1
+David Whitaker,GYM 5,2
+David Whitaker,GYM 6,1
+David Whitaker,GYM 7,1
+David Whitaker,OFFICE 3,1
+David Whitaker,OFFICE 5,1
+David Whitaker,OTHERS 4,1
+David Whitaker,PLAY ARENA 2,1
+David Whitaker,PLAY ARENA 3,1
+David Whitaker,PLAY ARENA 5,1
+David Whitaker,PLAY ARENA 6,1
+David Whitaker,RESTAURANT 3,1
+David Whitaker,RESTAURANT 4,3
+David Whitaker,RESTAURANT 5,1
+David Whitaker,SHOPPING 3,1
+David Whitaker,SHOPPING 5,2
+David Whitaker,SHOPPING 6,1
+Elizabeth Gross,BAR 6,1
+Elizabeth Gross,OFFICE 0,1
+Elizabeth Gross,OFFICE 3,1
+Elizabeth Gross,OFFICE 5,2
+Elizabeth Gross,PLAY ARENA 5,1
+Elizabeth Gross,PLAY ARENA 6,1
+Elizabeth Gross,RESTAURANT 3,1
+Elizabeth Gross,RESTAURANT 4,1
+Elizabeth Gross,RESTAURANT 6,1
+Elizabeth Gross,SHOPPING 3,1
+Elizabeth Gross,SHOPPING 4,1
+Elizabeth Gross,SHOPPING 5,1
+Elizabeth Gross,SHOPPING 7,1
+Erika Brown,BAR 4,1
+Erika Brown,BAR 5,1
+Erika Brown,BAR 7,1
+Erika Brown,GYM 4,1
+Erika Brown,GYM 5,1
+Erika Brown,GYM 6,2
+Erika Brown,OFFICE 0,1
+Erika Brown,OFFICE 2,1
+Erika Brown,OFFICE 3,1
+Erika Brown,OFFICE 6,2
+Erika Brown,OFFICE 7,1
+Erika Brown,OTHERS 4,3
+Erika Brown,OTHERS 6,2
+Erika Brown,PLAY ARENA 4,1
+Erika Brown,PLAY ARENA 5,1
+Erika Brown,PLAY ARENA 7,1
+Erika Brown,RESTAURANT 5,1
+Erika Brown,RESTAURANT 6,2
+Erika Brown,SHOPPING 2,1
+Erika Brown,SHOPPING 7,1
+George Thomas Jr.,BAR 4,2
+George Thomas Jr.,BAR 5,2
+George Thomas Jr.,GYM 4,1
+George Thomas Jr.,GYM 7,1
+George Thomas Jr.,OFFICE 4,3
+George Thomas Jr.,OFFICE 5,1
+George Thomas Jr.,OTHERS 4,1
+George Thomas Jr.,OTHERS 5,1
+George Thomas Jr.,OTHERS 6,1
+George Thomas Jr.,PLAY ARENA 4,1
+George Thomas Jr.,PLAY ARENA 5,1
+George Thomas Jr.,PLAY ARENA 6,1
+George Thomas Jr.,RESTAURANT 5,1
+George Thomas Jr.,RESTAURANT 7,2
+Heather Maxwell,BAR 5,1
+Heather Maxwell,BAR 6,2
+Heather Maxwell,BAR 7,1
+Heather Maxwell,GYM 5,1
+Heather Maxwell,OFFICE 3,1
+Heather Maxwell,OFFICE 5,1
+Heather Maxwell,OTHERS 4,2
+Heather Maxwell,OTHERS 7,1
+Heather Maxwell,PLAY ARENA 2,1
+Heather Maxwell,PLAY ARENA 5,1
+Heather Maxwell,PLAY ARENA 6,2
+Heather Maxwell,RESTAURANT 0,1
+Heather Maxwell,RESTAURANT 2,1
+Heather Maxwell,RESTAURANT 3,1
+Heather Maxwell,RESTAURANT 4,3
+Heather Maxwell,RESTAURANT 6,2
+Heather Maxwell,SHOPPING 4,2
+Heather Maxwell,SHOPPING 5,1
+Heather Mcguire,BAR 3,1
+Heather Mcguire,BAR 6,2
+Heather Mcguire,GYM 3,2
+Heather Mcguire,GYM 6,1
+Heather Mcguire,GYM 7,1
+Heather Mcguire,OFFICE 2,1
+Heather Mcguire,OFFICE 4,1
+Heather Mcguire,OFFICE 5,1
+Heather Mcguire,OFFICE 6,1
+Heather Mcguire,OFFICE 7,1
+Heather Mcguire,OTHERS 4,4
+Heather Mcguire,OTHERS 6,2
+Heather Mcguire,OTHERS 7,1
+Heather Mcguire,PLAY ARENA 4,2
+Heather Mcguire,PLAY ARENA 5,2
+Heather Mcguire,PLAY ARENA 6,2
+Heather Mcguire,RESTAURANT 0,1
+Heather Mcguire,RESTAURANT 3,3
+Heather Mcguire,RESTAURANT 6,1
+Heather Mcguire,SHOPPING 7,1
+Jeremy Price,BAR 4,1
+Jeremy Price,BAR 5,1
+Jeremy Price,BAR 6,1
+Jeremy Price,BAR 7,1
+Jeremy Price,GYM 2,1
+Jeremy Price,GYM 5,1
+Jeremy Price,OFFICE 3,1
+Jeremy Price,OFFICE 4,1
+Jeremy Price,OTHERS 6,1
+Jeremy Price,OTHERS 7,2
+Jeremy Price,PLAY ARENA 3,1
+Jeremy Price,PLAY ARENA 5,1
+Jeremy Price,RESTAURANT 4,2
+Jeremy Price,RESTAURANT 5,1
+Jeremy Price,SHOPPING 3,2
+Jeremy Price,SHOPPING 4,2
+Jeremy Price,SHOPPING 6,1
+John Medina,BAR 4,1
+John Medina,BAR 5,2
+John Medina,BAR 6,1
+John Medina,BAR 7,1
+John Medina,GYM 3,1
+John Medina,OFFICE 4,1
+John Medina,OTHERS 3,3
+John Medina,OTHERS 5,1
+John Medina,OTHERS 6,1
+John Medina,PLAY ARENA 3,1
+John Medina,PLAY ARENA 4,2
+John Medina,PLAY ARENA 7,1
+John Medina,RESTAURANT 6,4
+John Medina,SHOPPING 5,1
+John Medina,SHOPPING 6,1
+John Peters,BAR 0,1
+John Peters,BAR 5,1
+John Peters,BAR 6,1
+John Peters,GYM 5,1
+John Peters,OFFICE 4,1
+John Peters,OFFICE 5,1
+John Peters,OFFICE 7,1
+John Peters,OTHERS 2,1
+John Peters,OTHERS 3,1
+John Peters,OTHERS 6,2
+John Peters,OTHERS 7,1
+John Peters,PLAY ARENA 5,2
+John Peters,PLAY ARENA 6,1
+John Peters,RESTAURANT 3,2
+John Peters,RESTAURANT 4,2
+John Peters,RESTAURANT 5,1
+John Peters,RESTAURANT 6,1
+John Peters,RESTAURANT 7,1
+Kelly Torres,BAR 3,2
+Kelly Torres,BAR 5,1
+Kelly Torres,BAR 6,1
+Kelly Torres,GYM 4,2
+Kelly Torres,GYM 5,3
+Kelly Torres,GYM 7,1
+Kelly Torres,OFFICE 3,1
+Kelly Torres,OFFICE 5,2
+Kelly Torres,OFFICE 6,1
+Kelly Torres,OTHERS 4,2
+Kelly Torres,OTHERS 6,2
+Kelly Torres,PLAY ARENA 3,2
+Kelly Torres,PLAY ARENA 4,2
+Kelly Torres,PLAY ARENA 5,1
+Kelly Torres,PLAY ARENA 6,1
+Kelly Torres,PLAY ARENA 7,1
+Kelly Torres,RESTAURANT 1,1
+Kelly Torres,RESTAURANT 3,2
+Kelly Torres,RESTAURANT 4,1
+Kelly Torres,RESTAURANT 5,1
+Kelly Torres,SHOPPING 3,2
+Kelly Torres,SHOPPING 5,1
+Kelly Torres,SHOPPING 6,1
+Kelly Torres,SHOPPING 7,1
+Kylie Gordon,GYM 3,2
+Kylie Gordon,GYM 5,1
+Kylie Gordon,GYM 6,1
+Kylie Gordon,OFFICE 6,2
+Kylie Gordon,OTHERS 3,3
+Kylie Gordon,OTHERS 4,1
+Kylie Gordon,OTHERS 5,2
+Kylie Gordon,OTHERS 7,1
+Kylie Gordon,PLAY ARENA 0,1
+Kylie Gordon,PLAY ARENA 5,1
+Kylie Gordon,PLAY ARENA 6,2
+Kylie Gordon,RESTAURANT 4,3
+Kylie Gordon,RESTAURANT 5,1
+Kylie Gordon,SHOPPING 3,1
+Kylie Gordon,SHOPPING 4,2
+Lance Chan,BAR 2,1
+Lance Chan,GYM 2,2
+Lance Chan,GYM 4,1
+Lance Chan,GYM 5,1
+Lance Chan,GYM 6,1
+Lance Chan,OFFICE 2,1
+Lance Chan,OTHERS 0,1
+Lance Chan,OTHERS 4,1
+Lance Chan,OTHERS 5,2
+Lance Chan,PLAY ARENA 7,1
+Lance Chan,RESTAURANT 2,1
+Lance Chan,RESTAURANT 4,1
+Lance Chan,RESTAURANT 7,1
+Lance Chan,SHOPPING 4,1
+Lance Chan,SHOPPING 5,1
+Lance Chan,SHOPPING 7,2
+Lynn Elliott,BAR 3,1
+Lynn Elliott,BAR 4,1
+Lynn Elliott,BAR 6,1
+Lynn Elliott,BAR 7,1
+Lynn Elliott,OFFICE 2,1
+Lynn Elliott,OFFICE 3,1
+Lynn Elliott,OTHERS 3,2
+Lynn Elliott,OTHERS 4,2
+Lynn Elliott,OTHERS 5,1
+Lynn Elliott,OTHERS 7,1
+Lynn Elliott,PLAY ARENA 5,1
+Lynn Elliott,PLAY ARENA 6,1
+Lynn Elliott,RESTAURANT 4,1
+Lynn Elliott,SHOPPING 0,1
+Lynn Elliott,SHOPPING 2,1
+Lynn Elliott,SHOPPING 3,1
+Lynn Elliott,SHOPPING 5,1
+Margaret Brock,BAR 4,2
+Margaret Brock,BAR 5,1
+Margaret Brock,BAR 7,1
+Margaret Brock,GYM 0,1
+Margaret Brock,GYM 3,1
+Margaret Brock,GYM 6,1
+Margaret Brock,GYM 7,1
+Margaret Brock,OFFICE 3,1
+Margaret Brock,OFFICE 4,1
+Margaret Brock,OFFICE 5,1
+Margaret Brock,OFFICE 6,1
+Margaret Brock,OFFICE 7,2
+Margaret Brock,OTHERS 4,2
+Margaret Brock,OTHERS 6,1
+Margaret Brock,OTHERS 7,1
+Margaret Brock,PLAY ARENA 1,1
+Margaret Brock,PLAY ARENA 3,1
+Margaret Brock,PLAY ARENA 4,1
+Margaret Brock,PLAY ARENA 5,1
+Margaret Brock,RESTAURANT 4,1
+Margaret Brock,RESTAURANT 6,2
+Margaret Brock,SHOPPING 3,1
+Maria Tran,BAR 3,1
+Maria Tran,BAR 6,1
+Maria Tran,OFFICE 3,2
+Maria Tran,OFFICE 5,1
+Maria Tran,OFFICE 6,1
+Maria Tran,OTHERS 3,1
+Maria Tran,PLAY ARENA 2,1
+Maria Tran,PLAY ARENA 4,1
+Maria Tran,PLAY ARENA 5,1
+Maria Tran,RESTAURANT 3,1
+Maria Tran,RESTAURANT 4,1
+Maria Tran,SHOPPING 4,1
+Maria Tran,SHOPPING 5,2
+Mark Rodriguez DDS,BAR 0,1
+Mark Rodriguez DDS,BAR 2,1
+Mark Rodriguez DDS,BAR 3,1
+Mark Rodriguez DDS,BAR 5,1
+Mark Rodriguez DDS,BAR 7,1
+Mark Rodriguez DDS,GYM 3,1
+Mark Rodriguez DDS,GYM 6,1
+Mark Rodriguez DDS,OFFICE 4,1
+Mark Rodriguez DDS,OFFICE 5,1
+Mark Rodriguez DDS,OTHERS 3,1
+Mark Rodriguez DDS,OTHERS 6,1
+Mark Rodriguez DDS,PLAY ARENA 3,1
+Mark Rodriguez DDS,PLAY ARENA 4,1
+Mark Rodriguez DDS,PLAY ARENA 5,4
+Mark Rodriguez DDS,RESTAURANT 3,1
+Mark Rodriguez DDS,RESTAURANT 4,1
+Mark Rodriguez DDS,RESTAURANT 5,1
+Mark Rodriguez DDS,RESTAURANT 6,1
+Mark Rodriguez DDS,SHOPPING 3,3
+Mark Rodriguez DDS,SHOPPING 4,2
+Mark Rodriguez DDS,SHOPPING 5,2
+Matthew Russell,BAR 3,1
+Matthew Russell,BAR 4,2
+Matthew Russell,BAR 5,1
+Matthew Russell,BAR 6,1
+Matthew Russell,GYM 0,1
+Matthew Russell,GYM 4,1
+Matthew Russell,OFFICE 3,2
+Matthew Russell,OFFICE 5,2
+Matthew Russell,OTHERS 3,1
+Matthew Russell,OTHERS 4,1
+Matthew Russell,OTHERS 5,1
+Matthew Russell,OTHERS 6,1
+Matthew Russell,OTHERS 7,1
+Matthew Russell,PLAY ARENA 4,1
+Matthew Russell,PLAY ARENA 6,1
+Matthew Russell,SHOPPING 3,1
+Matthew Russell,SHOPPING 4,1
+Matthew Russell,SHOPPING 5,2
+Michael Mckinney,BAR 2,1
+Michael Mckinney,BAR 5,1
+Michael Mckinney,BAR 6,1
+Michael Mckinney,BAR 7,1
+Michael Mckinney,GYM 3,1
+Michael Mckinney,GYM 6,2
+Michael Mckinney,OFFICE 5,3
+Michael Mckinney,OFFICE 6,1
+Michael Mckinney,OTHERS 0,1
+Michael Mckinney,OTHERS 3,1
+Michael Mckinney,OTHERS 5,2
+Michael Mckinney,OTHERS 6,1
+Michael Mckinney,PLAY ARENA 2,1
+Michael Mckinney,PLAY ARENA 5,1
+Michael Mckinney,PLAY ARENA 6,1
+Michael Mckinney,RESTAURANT 4,1
+Michael Mckinney,RESTAURANT 6,2
+Michael Mckinney,SHOPPING 4,1
+Michelle Day,BAR 3,2
+Michelle Day,BAR 5,2
+Michelle Day,OFFICE 2,1
+Michelle Day,OFFICE 3,1
+Michelle Day,OFFICE 5,1
+Michelle Day,OTHERS 4,1
+Michelle Day,PLAY ARENA 0,1
+Michelle Day,PLAY ARENA 3,1
+Michelle Day,PLAY ARENA 4,1
+Michelle Day,PLAY ARENA 5,1
+Michelle Day,PLAY ARENA 7,1
+Michelle Day,RESTAURANT 3,1
+Michelle Day,RESTAURANT 4,1
+Michelle Day,RESTAURANT 5,1
+Michelle Day,RESTAURANT 6,1
+Michelle Day,SHOPPING 6,1
+Nancy Brennan,BAR 3,1
+Nancy Brennan,BAR 4,1
+Nancy Brennan,BAR 5,1
+Nancy Brennan,BAR 6,2
+Nancy Brennan,GYM 3,1
+Nancy Brennan,GYM 4,3
+Nancy Brennan,GYM 5,2
+Nancy Brennan,GYM 6,1
+Nancy Brennan,OFFICE 4,1
+Nancy Brennan,OFFICE 6,1
+Nancy Brennan,OTHERS 3,1
+Nancy Brennan,OTHERS 4,1
+Nancy Brennan,OTHERS 5,3
+Nancy Brennan,OTHERS 6,1
+Nancy Brennan,PLAY ARENA 1,1
+Nancy Brennan,PLAY ARENA 4,1
+Nancy Brennan,PLAY ARENA 6,1
+Nancy Brennan,RESTAURANT 0,1
+Nancy Brennan,RESTAURANT 3,1
+Nancy Brennan,RESTAURANT 5,1
+Nancy Brennan,RESTAURANT 6,1
+Nancy Brennan,SHOPPING 2,1
+Nancy Brennan,SHOPPING 3,1
+Nancy Brennan,SHOPPING 5,1
+Nancy Brennan,SHOPPING 6,2
+Nancy Brennan,SHOPPING 7,2
+Nicole Garrett,BAR 5,3
+Nicole Garrett,GYM 5,2
+Nicole Garrett,GYM 6,4
+Nicole Garrett,OTHERS 0,1
+Nicole Garrett,OTHERS 5,2
+Nicole Garrett,OTHERS 6,1
+Nicole Garrett,OTHERS 7,1
+Nicole Garrett,RESTAURANT 4,2
+Nicole Garrett,RESTAURANT 5,1
+Nicole Garrett,RESTAURANT 6,1
+Nicole Garrett,SHOPPING 0,1
+Nicole Garrett,SHOPPING 4,1
+Nicole Garrett,SHOPPING 5,1
+Patricia Marshall,BAR 0,1
+Patricia Marshall,BAR 4,1
+Patricia Marshall,BAR 5,1
+Patricia Marshall,OFFICE 0,1
+Patricia Marshall,OFFICE 4,2
+Patricia Marshall,OFFICE 6,3
+Patricia Marshall,OTHERS 2,1
+Patricia Marshall,OTHERS 4,2
+Patricia Marshall,OTHERS 5,1
+Patricia Marshall,OTHERS 6,2
+Patricia Marshall,PLAY ARENA 2,1
+Patricia Marshall,PLAY ARENA 4,1
+Patricia Marshall,PLAY ARENA 5,2
+Patricia Marshall,PLAY ARENA 6,2
+Patricia Marshall,PLAY ARENA 7,1
+Patricia Marshall,RESTAURANT 3,1
+Patricia Marshall,RESTAURANT 5,1
+Patricia Marshall,SHOPPING 4,1
+Patricia Marshall,SHOPPING 7,2
+Paul Smith,BAR 5,2
+Paul Smith,BAR 6,1
+Paul Smith,BAR 7,1
+Paul Smith,GYM 3,1
+Paul Smith,GYM 4,1
+Paul Smith,GYM 5,1
+Paul Smith,OFFICE 2,1
+Paul Smith,OFFICE 5,1
+Paul Smith,OTHERS 5,2
+Paul Smith,OTHERS 6,1
+Paul Smith,OTHERS 7,1
+Paul Smith,PLAY ARENA 3,1
+Paul Smith,PLAY ARENA 5,2
+Paul Smith,PLAY ARENA 6,3
+Paul Smith,RESTAURANT 4,1
+Paul Smith,RESTAURANT 7,1
+Paul Smith,SHOPPING 5,1
+Paul Smith,SHOPPING 6,2
+Rachel Williams,BAR 3,1
+Rachel Williams,GYM 3,1
+Rachel Williams,GYM 4,1
+Rachel Williams,GYM 6,1
+Rachel Williams,OFFICE 3,2
+Rachel Williams,OFFICE 5,1
+Rachel Williams,OFFICE 6,1
+Rachel Williams,OTHERS 3,1
+Rachel Williams,OTHERS 4,2
+Rachel Williams,OTHERS 6,1
+Rachel Williams,PLAY ARENA 0,1
+Rachel Williams,PLAY ARENA 3,1
+Rachel Williams,RESTAURANT 4,2
+Rachel Williams,RESTAURANT 5,2
+Rachel Williams,RESTAURANT 7,1
+Rachel Williams,SHOPPING 5,2
+Rachel Williams,SHOPPING 7,1
+Richard Reid,BAR 0,1
+Richard Reid,BAR 5,1
+Richard Reid,BAR 6,3
+Richard Reid,BAR 7,1
+Richard Reid,GYM 4,1
+Richard Reid,GYM 6,1
+Richard Reid,GYM 7,1
+Richard Reid,OFFICE 0,1
+Richard Reid,OFFICE 4,1
+Richard Reid,OFFICE 5,1
+Richard Reid,OTHERS 3,2
+Richard Reid,OTHERS 4,1
+Richard Reid,OTHERS 5,2
+Richard Reid,OTHERS 6,1
+Richard Reid,OTHERS 7,1
+Richard Reid,PLAY ARENA 1,1
+Richard Reid,PLAY ARENA 4,1
+Richard Reid,PLAY ARENA 6,2
+Richard Reid,RESTAURANT 3,1
+Richard Reid,RESTAURANT 4,1
+Richard Reid,RESTAURANT 7,1
+Richard Reid,SHOPPING 3,1
+Richard Reid,SHOPPING 5,2
+Rose Cruz,BAR 4,1
+Rose Cruz,BAR 5,3
+Rose Cruz,BAR 6,1
+Rose Cruz,BAR 7,1
+Rose Cruz,GYM 3,2
+Rose Cruz,GYM 4,1
+Rose Cruz,OFFICE 3,2
+Rose Cruz,OFFICE 4,1
+Rose Cruz,OFFICE 6,1
+Rose Cruz,OTHERS 4,1
+Rose Cruz,OTHERS 5,1
+Rose Cruz,PLAY ARENA 5,2
+Rose Cruz,PLAY ARENA 6,1
+Rose Cruz,PLAY ARENA 7,1
+Rose Cruz,SHOPPING 3,1
+Rose Cruz,SHOPPING 4,1
+Rose Cruz,SHOPPING 6,1
+Ryan Barnes,BAR 6,1
+Ryan Barnes,GYM 4,2
+Ryan Barnes,GYM 5,1
+Ryan Barnes,GYM 6,2
+Ryan Barnes,OFFICE 0,1
+Ryan Barnes,OFFICE 3,1
+Ryan Barnes,OFFICE 5,1
+Ryan Barnes,OFFICE 7,2
+Ryan Barnes,OTHERS 5,1
+Ryan Barnes,PLAY ARENA 4,2
+Ryan Barnes,PLAY ARENA 6,1
+Ryan Barnes,RESTAURANT 0,1
+Ryan Barnes,RESTAURANT 2,1
+Ryan Barnes,RESTAURANT 5,2
+Ryan Barnes,SHOPPING 1,1
+Ryan Barnes,SHOPPING 3,1
+Ryan Barnes,SHOPPING 4,1
+Ryan Barnes,SHOPPING 5,1
+Samantha Coleman,BAR 4,1
+Samantha Coleman,BAR 6,1
+Samantha Coleman,BAR 7,2
+Samantha Coleman,GYM 2,2
+Samantha Coleman,GYM 5,1
+Samantha Coleman,GYM 6,2
+Samantha Coleman,OFFICE 0,1
+Samantha Coleman,OFFICE 4,3
+Samantha Coleman,OFFICE 7,1
+Samantha Coleman,OTHERS 3,2
+Samantha Coleman,OTHERS 6,2
+Samantha Coleman,PLAY ARENA 4,2
+Samantha Coleman,PLAY ARENA 6,4
+Samantha Coleman,RESTAURANT 4,1
+Samantha Coleman,RESTAURANT 6,1
+Samantha Coleman,SHOPPING 6,4
+Samantha Coleman,SHOPPING 7,1
+Sarah Peck,BAR 0,1
+Sarah Peck,GYM 4,1
+Sarah Peck,GYM 5,2
+Sarah Peck,GYM 7,1
+Sarah Peck,OFFICE 6,1
+Sarah Peck,OTHERS 5,1
+Sarah Peck,OTHERS 6,1
+Sarah Peck,PLAY ARENA 3,1
+Sarah Peck,PLAY ARENA 5,1
+Sarah Peck,PLAY ARENA 6,1
+Sarah Peck,RESTAURANT 3,3
+Sarah Peck,RESTAURANT 4,1
+Sarah Peck,RESTAURANT 5,2
+Sarah Peck,SHOPPING 3,1
+Sarah Peck,SHOPPING 4,1
+Sarah Peck,SHOPPING 5,1
+Sophia Hernandez,BAR 3,1
+Sophia Hernandez,BAR 6,2
+Sophia Hernandez,BAR 7,1
+Sophia Hernandez,GYM 3,1
+Sophia Hernandez,GYM 5,2
+Sophia Hernandez,GYM 6,1
+Sophia Hernandez,OFFICE 5,2
+Sophia Hernandez,OFFICE 6,2
+Sophia Hernandez,OTHERS 3,1
+Sophia Hernandez,OTHERS 5,2
+Sophia Hernandez,PLAY ARENA 5,2
+Sophia Hernandez,RESTAURANT 2,1
+Sophia Hernandez,RESTAURANT 3,1
+Sophia Hernandez,RESTAURANT 4,1
+Sophia Hernandez,RESTAURANT 6,1
+Sophia Hernandez,SHOPPING 0,1
+Sophia Hernandez,SHOPPING 3,1
+Sophia Hernandez,SHOPPING 5,2
+Sophia Hernandez,SHOPPING 6,2
+Sophia Hernandez,SHOPPING 7,1
+Steven Jones,BAR 5,2
+Steven Jones,BAR 6,1
+Steven Jones,BAR 7,2
+Steven Jones,GYM 4,1
+Steven Jones,GYM 6,1
+Steven Jones,GYM 7,1
+Steven Jones,OFFICE 5,1
+Steven Jones,OFFICE 7,1
+Steven Jones,OTHERS 4,1
+Steven Jones,OTHERS 6,1
+Steven Jones,RESTAURANT 2,1
+Steven Jones,RESTAURANT 3,1
+Steven Jones,RESTAURANT 4,1
+Steven Jones,RESTAURANT 6,1
+Steven Jones,SHOPPING 4,1
+Steven Jones,SHOPPING 6,1
+Steven Jones,SHOPPING 7,1
+Traci Braun,GYM 4,2
+Traci Braun,GYM 6,1
+Traci Braun,OFFICE 4,1
+Traci Braun,OFFICE 6,1
+Traci Braun,OTHERS 0,1
+Traci Braun,OTHERS 3,2
+Traci Braun,OTHERS 5,1
+Traci Braun,PLAY ARENA 3,1
+Traci Braun,PLAY ARENA 5,2
+Traci Braun,RESTAURANT 4,1
+Traci Braun,RESTAURANT 5,1
+Traci Braun,SHOPPING 4,2
+Traci Braun,SHOPPING 5,1
+Traci Braun,SHOPPING 6,1
+Tracy Hanna,GYM 5,1
+Tracy Hanna,GYM 7,1
+Tracy Hanna,OFFICE 4,1
+Tracy Hanna,OFFICE 5,3
+Tracy Hanna,OFFICE 7,2
+Tracy Hanna,OTHERS 5,1
+Tracy Hanna,OTHERS 6,2
+Tracy Hanna,OTHERS 7,1
+Tracy Hanna,PLAY ARENA 3,1
+Tracy Hanna,PLAY ARENA 5,3
+Tracy Hanna,PLAY ARENA 6,1
+Tracy Hanna,RESTAURANT 3,1
+Tracy Hanna,SHOPPING 3,1
+Tracy Hanna,SHOPPING 4,2
+Tracy Hanna,SHOPPING 6,1
+Troy Stewart,BAR 3,1
+Troy Stewart,BAR 4,1
+Troy Stewart,BAR 5,1
+Troy Stewart,GYM 2,1
+Troy Stewart,GYM 4,2
+Troy Stewart,GYM 5,2
+Troy Stewart,GYM 6,2
+Troy Stewart,GYM 7,1
+Troy Stewart,OFFICE 4,2
+Troy Stewart,OFFICE 5,1
+Troy Stewart,OFFICE 6,2
+Troy Stewart,OTHERS 4,2
+Troy Stewart,OTHERS 5,1
+Troy Stewart,OTHERS 6,1
+Troy Stewart,PLAY ARENA 3,1
+Troy Stewart,PLAY ARENA 4,1
+Troy Stewart,PLAY ARENA 6,1
+Troy Stewart,PLAY ARENA 7,1
+Troy Stewart,RESTAURANT 4,3
+Troy Stewart,RESTAURANT 5,2
+Troy Stewart,SHOPPING 4,1
+Troy Stewart,SHOPPING 5,1
+Troy Stewart,SHOPPING 6,1
+Troy Stewart,SHOPPING 7,1
+Wesley Wilson,BAR 4,1
+Wesley Wilson,BAR 5,1
+Wesley Wilson,BAR 6,2
+Wesley Wilson,BAR 7,1
+Wesley Wilson,GYM 3,2
+Wesley Wilson,GYM 4,3
+Wesley Wilson,GYM 5,1
+Wesley Wilson,GYM 7,1
+Wesley Wilson,OFFICE 4,2
+Wesley Wilson,OFFICE 5,1
+Wesley Wilson,OTHERS 3,1
+Wesley Wilson,OTHERS 4,1
+Wesley Wilson,PLAY ARENA 4,1
+Wesley Wilson,PLAY ARENA 6,1
+Wesley Wilson,RESTAURANT 4,1
+Wesley Wilson,RESTAURANT 5,1
+Wesley Wilson,SHOPPING 0,1
+Wesley Wilson,SHOPPING 5,1
+Wesley Wilson,SHOPPING 6,1
+William Jennings,BAR 3,1
+William Jennings,BAR 4,1
+William Jennings,BAR 5,1
+William Jennings,BAR 6,3
+William Jennings,BAR 7,1
+William Jennings,GYM 3,2
+William Jennings,GYM 4,2
+William Jennings,GYM 6,2
+William Jennings,GYM 7,1
+William Jennings,OFFICE 5,2
+William Jennings,OFFICE 6,1
+William Jennings,OTHERS 3,1
+William Jennings,OTHERS 4,3
+William Jennings,OTHERS 6,1
+William Jennings,OTHERS 7,1
+William Jennings,PLAY ARENA 4,2
+William Jennings,PLAY ARENA 6,1
+William Jennings,RESTAURANT 3,1
+William Jennings,RESTAURANT 4,2
+William Jennings,RESTAURANT 5,4
+William Jennings,RESTAURANT 7,1
+William Jennings,SHOPPING 4,1
+William Jennings,SHOPPING 5,1
+William Jennings,SHOPPING 6,2
+William Walker,BAR 3,1
+William Walker,BAR 4,1
+William Walker,BAR 5,1
+William Walker,BAR 7,1
+William Walker,GYM 2,1
+William Walker,OFFICE 5,2
+William Walker,OFFICE 7,1
+William Walker,PLAY ARENA 5,1
+William Walker,RESTAURANT 0,1
+William Walker,RESTAURANT 2,1
+William Walker,RESTAURANT 4,1
+William Walker,RESTAURANT 5,1
+William Walker,RESTAURANT 7,1
+William Walker,SHOPPING 3,3
+William Walker,SHOPPING 5,1
+William Walker,SHOPPING 6,1
